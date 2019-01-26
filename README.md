@@ -64,7 +64,9 @@ Nog een paar tips over deel b:
 
 ### Deel c
 
-Deel c is weer klassikaal uit te voeren les. Dat kan heel kort zijn, 5 of 10 minuutjes om even samen terug te blikken op het individuele deel. Ik heb er geen aparte slides voor. We herhalen nog even de codes, en ik vraag gewoon wat er goed ging en minder goed.
+Deel c is weer klassikaal uit te voeren les. Dat kan heel kort zijn, 5 of 10 minuutjes om even samen terug te blikken op het individuele deel. De laatste twee slides van deel a, waarin de leerdoelen herhaald worden, kun je hiervoor gebruiken.
+
+Ik vraag dan per leerdoel of lln het idee hebben dat ze het ook echt kunnen. 
 
 ### Algemene tips!
 
