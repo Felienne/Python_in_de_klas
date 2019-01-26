@@ -16,7 +16,9 @@ Je hebt net op het bord de print() opdracht gezien.
 
 Een print() opdracht print een woord uit, als het tussen aanhalingstekens staat. Bijvoorbeeld zo:
 
-```print('Goedemorgen')```  
+```python
+print('Goedemorgen')
+```
 
 
 
@@ -26,15 +28,23 @@ Schrijf de goede code over in je schrift!
 
 Tip: **Let goed op de aanhalingstekens!**
 
-print Hallo
-print('Hallo")
-print(Hallo)
-print("Hallo')
-print('Hallo')
+```python
+- print Hallo
+
+- print('Hallo")
+        
+- print(Hallo)
+        
+- print("Hallo')
+        
+- print('Hallo')
+```
 
 2) Maak deze print() opdracht zelf af zodat er **Allemaal** in beeld komt.
 
+```python
 print ... ... Allemaal ... ...
+```
 
 Schrijf de code over in je schrift.
 
@@ -68,11 +78,17 @@ Python stopt met printen bij een aanhalingsteken.
 
 Schrijf de goede code over in je schrift. Kijk goed naar de aanhalingstekens!
 
-print Hallo, 1c
-print('Hello', '1c')
-print('Hallo, 1c')
-print(Hallo, 1c)
-print("Hallo', '1c")
+```python
+- print Hallo, 1c
+
+- print('Hello', '1c')
+
+- print('Hallo, 1c')
+
+- print(Hallo, 1c)
+
+- print("Hallo', '1c")
+```
 
 2) Maak deze print() opdracht zelf af zodat er **Allemaal** in beeld komt.
 
@@ -92,7 +108,9 @@ Je kunt zoveel woorden combineren met komma's als je maar wilt!
 
 Bijvoorbeeld:
 
-```print('Goedemorgen', 'leerlingen', 'uit', '1c')```
+```python
+print('Goedemorgen', 'leerlingen', 'uit', '1c')
+```
 
 1) Welke van deze print() opdrachten print **ik hou van programmeren** uit? 
 
@@ -106,17 +124,29 @@ Tip: Let goed op, de goede code heeft:
 
 Weet jij welke code goed is?
 
-print('Ik', 'hou', 'van', 'programmeren')
-print('Ik', hou, van, 'programmeren')
-print('Ik', 'hou', 'van' 'programmeren')
-print Ik hou van programmeren
-print(Ik hou van programmeren)
+```python
+- print('Ik', 'hou', 'van', 'programmeren')
+
+- print('Ik', hou, van, 'programmeren')
+
+- print('Ik', 'hou', 'van' 'programmeren')
+
+- print Ik hou van programmeren
+
+- print(Ik hou van programmeren)
+```
+
+
 
 2) Maak deze codes af zodat er een goede zin geprint wordt:
 
-print ... ... Programmeren ... ... ... is ... ... ... leuk ... )
-print ... ...  Programmeren ...  , ... is ... ... ... leuk ... ...
-print ...   ' Programmeren ... ... ... is ... ... ... leuk ... ...
+```python
+- print ... ... Programmeren ... ... ... is ... ... ... leuk ... )
+- print ... ...  Programmeren ...  , ... is ... ... ... leuk ... ...
+- print ...   ' Programmeren ... ... ... is ... ... ... leuk ... ...
+```
+
+
 
 3) Kies nu zelf korte zinnetjes om te printen. Bijvoorbeeld: 'Ik hou van programmeren'.
 
