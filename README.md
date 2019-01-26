@@ -14,8 +14,9 @@ Je kunt de lessen zelfs zonder computers met alleen een digibord gebruiken (sla 
 
 ## Moet ik zelf veel Python kunnen om deze lessen te geven?
 
-Niet echt! Voor deel b is het wel handig als je iemand in de klas hebt die het een beetje kan, maar dat kan ook goed een leerling zijn. 
-De klassikale lessen lukken ook zonder kennis met de slides en handleiding!
+Niet echt hoor. De slides leggen alles uit dat je moet weten per les, dus die kun je vooraf lezen en dan ga je het wel redden.
+
+Voor deel b is het wel handig als je iemand in de klas hebt die het een beetje kan, maar dat kan ook goed een leerling zijn, uit jouw klas of uit een hogere klas, of een vader of moeder die in het begin meehelpt.
 
 ## Opzet van de lessenserie
 
@@ -57,37 +58,30 @@ Nog een paar tips over deel b:
   - Hele goede leerlingen demotiveren klasgenoten
   - Leerlingen leiden anderen af met bijv. tekeningen van gezichtjes
   - Zelf dingen uitproberen in Python leidt tot verwarring en frustratie
-  Ik heb zelf de afspraak in mijn les dat ze het laatste kwartier mogen rondlopen en bij elkaar kijken en ook andere dingen proberen, maar dit is natuurlijk aan jou. 
+  
 - Sommige lesdoelen hebben "(extra)" in de titel. Die zijn voor snellere of meer ervaren leerlingen. Die kunnen op de volgorde in de lessenserie waar ze staan gedaan worden, of op het einde van alle lessen. Net hoeveel je wilt dat ze leerlingen uit elkaar gaan lopen qua waar ze zijn.
 
 
 ### Deel c
 
-Deel c is weer klassikaal uit te voeren les. Dat kan heel kort zijn, 5 of 10 minuutjes om even smaen terug te blikken op het individuele deel.
-Ik heb er geen aparte slides voor, we herhalen nog even de codes, en ik vraag gewoon wat er goed ging en minder goed.
+Deel c is weer klassikaal uit te voeren les. Dat kan heel kort zijn, 5 of 10 minuutjes om even samen terug te blikken op het individuele deel. Ik heb er geen aparte slides voor. We herhalen nog even de codes, en ik vraag gewoon wat er goed ging en minder goed.
 
 ### Algemene tips!
 
 Een aantal algemene tips rondom de lessenserie:
 
-- Reken op ongeveer 2 lesuren voor delen a, b en c bij elkaar.
+- Reken op ongeveer 2 klokuren voor delen a, b en c bij elkaar: ca 45 minuten voor a, 45 min voor b en 10 minuten voor c, plus tussenin tijd om van de klassikale opzet naar de computers te gaan.
 
 - Als je wisbordjes hebt, raad ik zeker aan die te gebruiken! Een van de uitdagingen van een programmeerles is dat leerlingen soms de mooiste dingen maken, zonder dat ze het goed snappen! Ze proberen dingen tot dat het werkt, of zoeken dingen op op YouTube. Helemaal geen probleem natuurlijk, maar soms hebben ze dan veel minder begrip dan jij denkt. Daarom is het goe dom dat begrip regelmatig te toetsen, juist ook omdat jij als lk misschien zelf ook nog niet alle ins en outs van Python ken. Ik programmeer zelf al 20 jaar en zelfs ik snap niet altijd alles wat lln in elkaar knutselen!
 
 - Als je nieuwe codes laat zien, lees ze dan hardop voor, en laat leerlingen dat ook regelmatig doen. Uit ons eigen onderzoek blijkt dat lln dan beter onthouden hoe ze moeten programmeren. 
 
-  - Bijvoorbeeld: pen.forward(10) is "pen punt forward ronde haak openen 10 ronde haak sluiten"
+  - Bijvoorbeeld: pen.forward(10) is "pen punt forward ronde haak openen 10 rond haakje sluiten"
 
-- Wees ook heel consequent in het benoemen van karakters in de code. Dus "(" is niet een haakje, maar een ronde haak. Je kunt onze poster met karakters in je lokaal ophangen.
+- Wees ook heel consequent in het benoemen van karakters in de code. Dus "(" is niet een haakje, maar rond haakje. Op de slides proberen we dat ook zo consequent mogelijk te doen. Als je wilt, kun je onze poster met karakters in je lokaal ophangen.
 
 - Sommige leerlingen hebben weinig ervaring met computeren. Het vinden van zaken op het toetsenbord kan al lastig zijn, zoals de min of de 'tab'. Ook vaardigheden als knippen en plakken met ctrl-c en ctrl-v ontbreken regelmatig, en ook de ctrl-z voor ongedaan maken kennen ze niet altijd. OF ze weten niet hoe ze het moeten invoeren en proberen steeds heel precies ctrl en z tegelijk in te drukken ipv eerst de ctrl en dan de z erbij. Dit zijn geen leerdoelen van deze serie lessen maar de kans is groot dat je er wel tegenaan loopt. 
 
 - Stip steeds even de betekenis en goede uitspraak van de Engelse woorden in de code aan. Ik hoor nog regelmatig leerlingen worstelen met wat die woorden nou zijn. Dit wordt in het materiaal ook benoemd maar uitspraak zeker is ook handig als leerkrachten dat benadrukken. En soms betekenen woorden ook net iets anders in Python. In de tekentool heb je bijv. het commando 'left'. Dat betekent natuurlijk links, maar in deze code betekent het "draai linksom", dus niet "ga naar links". Dat is ook belangrijk om dat even te delen met leerlingen.
-
-
-
-
-
-
 
 
