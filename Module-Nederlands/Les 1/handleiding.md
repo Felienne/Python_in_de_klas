@@ -10,4 +10,4 @@ Leerlingen leren:
 
 ### Slides
 
-Je vindt de slides in het bestand pidk-m1-l1a als pdf, powerpoint of html, maar je kunt ze ook meteen [live](https://slides.com/felienne/pidk-m1-l1a) bekijken.
+Je vindt de slides in het bestand pidk-m1-l1a als pdf, maar je kunt ze ook meteen [live](https://slides.com/felienne/pidk-m1-l1a) bekijken. Let op! Sommigge slides bevatten embedded code, die werkt *niet* in de PDF.
