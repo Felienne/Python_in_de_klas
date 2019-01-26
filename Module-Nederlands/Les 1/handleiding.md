@@ -8,6 +8,12 @@ Leerlingen leren:
 - dat je aanhalingstekens moet gebruiken bij woorden
 - welke fouten je kan maken (en wat je dan moet doen)
 
-### Slides
+### Delen van de les
 
-Je vindt de slides in het bestand pidk-m1-l1a als pdf, maar je kunt ze ook meteen [live](https://slides.com/felienne/pidk-m1-l1a) bekijken. Let op! Sommigge slides bevatten embedded code, die werkt *niet* in de PDF.
+#### Deel a is de klassikale les
+
+Je vindt de slides in het bestand pidk-m1-l1a.pdf, maar je kunt ze ook meteen [live](https://slides.com/felienne/pidk-m1-l1a) bekijken. Let op! Sommigge slides bevatten embedded code, die werkt *niet* in de PDF.
+
+#### Deel b zijn de werkbladen voor lln
+
+Die vind je in pidk-m1-l1b.pdf.
