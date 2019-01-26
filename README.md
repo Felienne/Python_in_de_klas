@@ -78,7 +78,7 @@ Een aantal algemene tips rondom de lessenserie:
 
 - Als je nieuwe codes laat zien, lees ze dan hardop voor, en laat leerlingen dat ook regelmatig doen. Uit ons eigen onderzoek blijkt dat lln dan beter onthouden hoe ze moeten programmeren. 
 
-  - Bijvoorbeeld: pen.forward(10) is "pen punt forward ronde haak openen 10 rond haakje sluiten"
+  - Bijvoorbeeld: pen.forward(10) is "pen punt forward rond haakje openen 10 rond haakje sluiten"
 
 - Wees ook heel consequent in het benoemen van karakters in de code. Dus "(" is niet een haakje, maar rond haakje. Op de slides proberen we dat ook zo consequent mogelijk te doen. Als je wilt, kun je onze poster met karakters in je lokaal ophangen.
 
