@@ -141,43 +141,33 @@ Soms geeft Python een foutmelding.
 **Tip:** kijk ook goed naar de kleuren. Alleen tekst en aanhalingstekens horen rood te zijn.
 
 1.
-
-
 ```python
 pint('Python')
 ```
 
 2.
-
 ```python
 print('Python)
 ```
 
 3.
-
 ```python
 print(Python)
 ```
 
 4.
-
 ```python
 print(Python')
 ```
 
 5.
-
 ```python
 print('Python'
 ```
 
 
-2) Schrijf zelf nog 3 andere, verkeerde codes in je schrift.
+2) Schrijf zelf nog 3 andere, *verkeerde* codes in je schrift. Schrijf er ook de foutmelding bij die je dan krijgt.
 
 3) Schijf nu de goede code op om het woord Python te printen.
 
 
-
-```
-
-```
