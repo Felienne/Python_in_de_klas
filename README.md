@@ -17,9 +17,15 @@ Je kunt de lessen zelfs zonder computers met alleen een digibord gebruiken (sla 
 Niet echt! Voor deel b is het wel handig als je iemand in de klas hebt die het een beetje kan, maar dat kan ook goed een leerling zijn. 
 De klassikale lessen lukken ook zonder kennis met de slides en handleiding!
 
-## Opzet van de lessen
+## Opzet van de lessenserie
 
-De lessen bestaan steeds uit drie stukken: a, b en c.
+Het idee van deze lessen is om leerlingen te laten zien dat programmeren zo breed is. Vaak denken mensen bij programmeren aan robots maken en websites en apps, maar je kunt programmeren ook heel goed gebruiken bij 'gewone' schoolvakken. Daarom gaat ieder hoofdstuk van deze serie over een ander vak. Er zijn nu drie modules: Nederlands, Art en Aardrijkskunde. Met opzet is er gekozen voor een de niet-betavakken, juist ook om andere leerlingen aan te spreken dan traditioneel voor programmeren kiezen.
+
+In de modules zelf vind je meer details over de opdrachten in de modules.
+
+## Opzet van de modules
+
+Iedere module bestaat uit een aantal lessen. Een les bestaat steeds uit drie stukken: a, b en c.
 
 a) klassikale les
 b) werkbladen zodat lln zelf aan de slag kunnen achter de computer
