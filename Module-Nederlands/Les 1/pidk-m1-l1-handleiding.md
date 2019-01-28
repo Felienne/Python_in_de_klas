@@ -12,8 +12,10 @@ Leerlingen leren:
 
 #### Deel a is de klassikale les
 
-Je vindt de slides in het bestand pidk-m1-l1a.pdf, maar je kunt ze ook meteen [live](https://slides.com/felienne/pidk-m1-l1a) bekijken. Let op! Sommigge slides bevatten embedded code, die werkt *niet* in de PDF.
+Voor deel a heb je nodig:
+* [Slides online](https://slides.com/felienne/pidk-m1-l1a) Je kunt ook de pdf gebruiken, maar sommige slides bevatten embedded code, die werkt *niet* in de PDF.
+* [werkblad leerlingen a](https://github.com/Felienne/Python_in_de_klas/blob/master/Module-Nederlands/Les%201/pidk-m1-l1a-werkblad.md) Dit werkblad gebruiken leerlingen tijdens de klassikale les.
 
 #### Deel b zijn de werkbladen voor lln
 
-Die vind je in pidk-m1-l1b.pdf.
+* [werkblad leerlingen b](https://github.com/Felienne/Python_in_de_klas/blob/master/Module-Nederlands/Les%201/pidk-m1-l1a-werkblad.md) it werkblad gebruiken leerlingen tijdens het lesgedeelte achter de computer.
