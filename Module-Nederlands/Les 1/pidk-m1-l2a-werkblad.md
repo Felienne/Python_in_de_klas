@@ -74,7 +74,7 @@ Weet jij welke code goed is?
 
 
 
-2) Maak deze code af zodat er een goede zin geprint wordt:
+3) Maak deze code af zodat er een goede zin geprint wordt:
 
 ```python
 - print ... ... Programmeren ... ... ... is ... ... ... leuk ... )
@@ -82,7 +82,7 @@ Weet jij welke code goed is?
 
 
 
-3) Kies nu zelf een kort zinnetje om te printen. Bijvoorbeeld: 'Is het al pauze?'.
+4) Kies nu zelf een kort zinnetje om te printen. Bijvoorbeeld: 'Is het al pauze?'.
 
 Schrijf de code voor het zinnetje in je schrift.
 
@@ -99,44 +99,42 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
 **Onder elkaar**
 
-1) Wat printen deze codes uit? 
-
-Schrijf het antwoord op in je schrift! Wees *heel* precies.
+1) Wat printen deze codes uit? Schrijf het antwoord op in je schrift! Wees *heel* precies.
 
 Let op: **Er zitten ook foute codes tussen!** Als een code fout is, schrijf dan op: **FOUT.**
 
 ```python
-print('Hallo', 'allemaal')
+1.print('Hallo', 'allemaal')
 ```
 
 ```python
-print('Hallo)
-print('Allemaal')
+2.print('Hallo)
+  print('Allemaal')
 ```
 
 ```python
-print('Hallo' , allemaal')
+3.print('Hallo' , allemaal')
 ```
 
 ```python
-print('Hallo')
-print('allemaal')
+4.print('Hallo')
+  print('allemaal')
 ```
 
 ```python
-print('Hallo Allemaal')
+5.print('Hallo Allemaal')
 ```
 
 ```python
-prit('Hallo')
-prit('Allemaal')
+6.prit('Hallo')
+  prit('Allemaal')
 ```
-
-
 
 2) Hier staan drie codes en drie resultaten: de woorden die in beeld komen. 
 
 Welke code hoort bij welk resultaat?
+
+## TODO deze opmaak is niet duidelijk!!
 
 Schrijf de codes over in je schrift, met het resultaat erachter. 
 
@@ -146,36 +144,28 @@ print('test')      > test
 
 Let op: een van de drie codes geeft een fout.
 
-Codes:
+Codes:                      							             Resultaten:
 
 
 ```python
-print(goedemorgen)                              
+print(goedemorgen)                              # >goedemorgen
 ```
 
 ```python
-print('Goedemorgen')                            
+print('Goedemorgen')                            # >Goedemorgen
 ```
 
 ```python
-print('goedemorgen')                           
+print('goedemorgen')                            # >FOUT
 ```
-
-Resultaten:
-
-> goedemorgen
->
-> Goedemorgen
->
-> Code geeft een fout
 
 ------
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel 
 
-<div style="page-break-after: always;"></div>
-
 ------
+
+<div style="page-break-after: always;"></div>
 
 **Commentaar**
 
@@ -194,9 +184,11 @@ Schrijf de codes over in je schrift, met het resultaat erachter.
 
 Bijvoorbeeld:
 
+## TODO deze opmaak is niet duidelijk!!
+
 print('test')      > test
 
-Let op: een van de drie codes geeft een fout.
+**Let op:** een van de drie codes geeft een fout.
 
 Codes:
 
@@ -266,7 +258,9 @@ print('klas', '1c')
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel 
 
-<div style="page-break-after: always;"></div>
+
 
 ------
+
+
 

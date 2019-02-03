@@ -1,0 +1,24 @@
+#!/bin/bash
+# Convert a MarkDown file to a PDF
+set -euo pipefail
+
+scriptdir=$(cd $(dirname $0) && pwd)
+
+while [[ "${1:-}" != "" ]]; do
+    echo "Converting $1"
+
+    tempfile="$scriptdir/$(basename "$1").html"
+    outfile="${1/.md}.pdf"
+    
+    # MD -> HTML using PanDoc
+    pandoc \
+      --css="$scriptdir/github.css" \
+      "$1" \
+      -o "$tempfile"
+    
+    # HTML -> PDF using cupsfilter
+    cupsfilter -D "$tempfile" > "$outfile"
+    
+    echo "Wrote $outfile"
+    shift
+done
