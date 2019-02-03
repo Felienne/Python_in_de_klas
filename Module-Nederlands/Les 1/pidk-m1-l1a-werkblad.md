@@ -66,11 +66,14 @@ Een print() kan ook meerdere woorden printen. Dan moeten er komma's tussen de wo
 
 Zo:
 
-```print('Goedemorgen', 'allemaal')``` --> Goedemorgen allemaal
+```python
+print('Goedemorgen', 'allemaal')                      > Goedemorgen allemaal
+```
 
-Op de plek van de komma komt een spatie in de uitvoer.
+Op de plek van de komma komt een spatie in de uitvoer. 
 
-![image-20190126194716104](/Users/Felienne/Library/Application Support/typora-user-images/image-20190126194716104.png)
+![image-20190126194646749](/Users/Felienne/Library/Application Support/typora-user-images/image-20190126194716104.png){ width=50% }
+
 
 Python stopt met printen bij een aanhalingsteken. 
 
@@ -81,7 +84,7 @@ Schrijf de goede code over in je schrift. Kijk goed naar de aanhalingstekens!
 ```python
 - print Hallo, 1c
 
-- print('Hello', '1c')
+- print('Hallo', '1c')
 
 - print('Hallo, 1c')
 
@@ -160,9 +163,9 @@ Schrijf drie codes voor zinnetjes in je schrift.
 
 **Foutmeldingen**
 
-Soms geeft Python een foutmelding.
+Soms geeft Python een foutmelding. 
 
-![image-20190126194646749](/Users/Felienne/Library/Application Support/typora-user-images/image-20190126194646749.png)
+![image-20190126194646749](/Users/Felienne/Library/Application Support/typora-user-images/image-20190126194646749.png){ width=50% }
 
 
 
@@ -196,8 +199,21 @@ print('Python'
 ```
 
 
-2) Schrijf zelf nog 3 andere, *verkeerde* codes in je schrift. Schrijf er ook de foutmelding bij die je dan krijgt.
 
-3) Schijf nu de goede code op om het woord Python te printen.
+2) Schrijf zelf nog 3 andere, *verkeerde* codes in je schrift. 
+
+Schrijf er ook bij waarom de code verkeerd is.
+
+Voorbeeld: 
+
+```python
+print('Python)
+```
+
+Deze code is fout omdat er maar 1 aanhalingsteken om het woord staat.
+
+
+
+3) Schijf nu de goede versie op van de 3 verkeerde codes hierboven.
 
 
