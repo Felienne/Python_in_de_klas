@@ -13,8 +13,6 @@ Aan het einde van de les kun jij:
 
 **Begin op een nieuwe pagina en zet erboven: Les 3a**
 
-
-
 1) Hieronder staan vijf codes met commentaar erin. Wat printen deze codes uit?
 
 Schrijf de uitvoer in je schrift.
@@ -77,31 +75,22 @@ Schrijf in je schrift wat de fout is.
    prit('Allemaal')
 ```
 
-
-
 ------
-
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
-
-
-
+ <div style="page-break-after: always;"></div>
 ------
 
 **Waardes zoeken**
 
-1) In Python kun je woorden zonder aanhalingstekens gebruiken. Dat zijn variabeles. Als Python die tegenkomt gaat hij omhoog zoeken in het programma naar de *definitie* van de variabele. Dat betekent waar de variabele wordt ingesteld met een is-teken:
+1) In Python kun je woorden zonder aanhalingstekens gebruiken. Dat zijn variabeles. Als Python die tegenkomt gaat hij omhoog zoeken in het programma naar de *definitie* van de variabele. Dat betekent waar de variabele wordt ingesteld met een is-teken: 
 
+```python
 naam = 'Felienne'
+```
 
-Doe alsof jij Python bent. 
+Schrijf deze codes over. Zet een pijltje tussen het gebruik van een variabele en zijn definitie.
 
-Schrijf deze codes over. 
-
-Zet een pijltje tussen het gebruik van een variabele en zijn definitie.
-
-Voorbeeld:
-
-![image-20190206124246541](/Users/Felienne/Library/Application Support/typora-user-images/image-20190206124246541.png){ width=50% }
+Voorbeeld:![image-20190206124246541](/Users/Felienne/Library/Application Support/typora-user-images/image-20190206124246541.png){ width=50% }
 
 ```python
 1. les = 'Coderen'
@@ -149,15 +138,96 @@ Schrijf de uitvoer in je schrift.
    print('Hallo' 'leerlingen', 'van', klas)
 ```
 
+------
 
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+
+ <div style="page-break-after: always;"></div>
+
+------
+
+**Naam niet gedefinieerd**
+
+Is de code goed of fout? Kijk goed of de variabele die gebruikt wordt wel gedefinieerd is. 
+
+* Als de code fout is, schijf je Fout
+* Als de code goed is, schrijf je op wat er geprint wordt.
+
+Voorbeeld 1)
+
+```python
+naam = 'Felienne'
+print(voornaam)
+```
+
+Deze code is fout, want `voornaam` bestaat niet. Dan schrijf je:
+
+Fout
+
+----
+
+Voorbeeld 2)
+
+```python
+klas = '1c'
+print('Hallo', klas)
+```
+
+Deze code is goed, klas is nu '1c'. Dan schrijf je:
+
+Hallo 1c
+
+---
+
+Nu jij!
+
+```python
+1. klas = '1c'
+   print('Hallo', naam)
+```
+
+
+```python
+2. klas = '1c'
+   print('Hallo', '1c')
+```
+
+```python
+3. achternaam = 'Hermans'
+   print('Hallo', 'mevrouw', Hermans)
+```
+
+```python
+4. tijd_op_klok = 'half 9'
+   print('Het', 'is', tijd_op_klok)
+```
+
+```python
+5. klas = 'klas 1c'
+   print('Hallo', 'leerlingen', 'van', klas)
+```
+
+```python
+6. print(Goedemorgen)
+```
+
+```python
+7. tijd = 'half 9'
+   print('Het', 'is', 'tijd')
+```
+
+```python
+8. print('Goedemorgen')
+```
 
 ------
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
-
-
 ------
 
-**Naam niet gedefinieerd**
+
+
+
+
 

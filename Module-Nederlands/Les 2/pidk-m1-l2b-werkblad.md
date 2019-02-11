@@ -67,15 +67,15 @@ Deze les wordt afgetekend als:
 
 Zet deze regels **in commentaar** bovenaan je programma:
 
-"dit programma is gemaakt door ……." <—— en dan jouw naam natuurlijk hier
-"het programma print een paar zitten uit"
-"bij print() is het belangrijk dat je denkt aan:"
+1. Dit programma is gemaakt door ……. <—— en dan jouw naam natuurlijk hier
+2. Het programma print een paar zitten uit.
+3. Bij print() is het belangrijk dat je denkt aan:
 
 ....
 
 ....
 
-.... <—— schrijft hier zelf drie dingen op die je nog weet over hoe je print() gebruikt
+.... <—— schrijf hier zelf drie dingen op die je nog weet over hoe je print() gebruikt
 
 ------
 
@@ -115,6 +115,10 @@ Print eronder nu drie zinnen. Je mag de zinnen zelf bedenken.
 
 
 ### Opdracht 2b-5) Schijf een verhaal over een dier.
+
+TODO: Let op! deze zit ook in les 3 omdat ik m pas later heb toegevoegd. Les 3 moet hierop verderbouwen door een refactoring voor te stellen!
+
+
 
 Begin nu een nieuw programma! Weet je nog hoe dat moet? 
 
