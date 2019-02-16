@@ -78,8 +78,6 @@ Schrijf in je schrift wat de fout is.
 ------
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
  <div style="page-break-after: always;"></div>
-------
-
 **Waardes zoeken**
 
 1) In Python kun je woorden zonder aanhalingstekens gebruiken. Dat zijn variabeles. Als Python die tegenkomt gaat hij omhoog zoeken in het programma naar de *definitie* van de variabele. Dat betekent waar de variabele wordt ingesteld met een is-teken: 
@@ -143,8 +141,6 @@ Schrijf de uitvoer in je schrift.
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
  <div style="page-break-after: always;"></div>
-
-------
 
 **Naam niet gedefinieerd**
 
@@ -224,7 +220,7 @@ Nu jij!
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
-------
+
 
 
 
