@@ -40,7 +40,11 @@ Voor deel a heb je nodig:
 * [werkblad leerlingen b](pidk-m1-l3b-werkblad.md) Dit werkblad gebruiken leerlingen tijdens het lesgedeelte achter de computer.
 
 In de opdrachten van deze les:
-TODO
+- maken lln een verhaal waar drie keer een dier in voorkomt (herhaling opdracht 5 van Les 2)
+- slaan ze dat dier op in een variabele
+- gebruiken ze die variabele in het verhaal
+
+
 #### Deel c is napraten, weer klassikaal
 
 * Je kunt hierbij de doelen weer even erbij pakken en dan per leerdoel aan de lln vragen of ze zelf nu ook klaar zijn om dat onderdeel uit te voeren.
