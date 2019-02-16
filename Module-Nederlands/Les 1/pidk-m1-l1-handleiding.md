@@ -1,5 +1,9 @@
 # Les 1
 
+### Slides voor deze les
+
+[Slides](https://slides.com/felienne/pidk-m1-l1a#)
+
 ### Doelen van deze les
 
 Leerlingen leren:
@@ -24,4 +28,4 @@ In de opdrachten van Les 1 schrijven leerlingen hun eerste programma.
 
 #### Deel c is napraten, weer klassikaal
 
-* Je kunt hierbij de doelen nog even erbij pakken (Aflsuiting hier: [Slide 35](https://slides.com/felienne/pidk-m1-l1a#/35)) en dan per leerdoel aan de lln vragen of ze zelf nu ook klaar zijn om dat onderdeel uit te voeren.
+* Je kunt hierbij de doelen nog even erbij pakken (Afsluitende slide hier: [Slide 35](https://slides.com/felienne/pidk-m1-l1a#/35)) en dan per leerdoel aan de lln vragen of ze zelf nu ook klaar zijn om dat onderdeel uit te voeren.
