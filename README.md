@@ -43,10 +43,9 @@ Voor deel a (en deel c) zijn geen computers nodig, alleen een digibord en schrij
 In deel b gaan lln zelf aan de slag met werkbladen. 
 
 Bovenaan de werkbladen staan steeds doelen voor lln.
-Bijvoorbeeld: "deze opdracht wordt afgeteknd als er een vierkant is getekend". 
+Bijvoorbeeld: "deze opdracht wordt afgetekend als er een vierkant is getekend". 
 
-Die doelen kun je in principe aftekenen zelfs als je niet zoveel programmeerkennis hebt. Het is immers een kwestie van kijken of er een vierkant staat.
-Daar waar je iets moet opzoeken de code van een ll, is ook dat zo uitgelegd dat iedereen het kan aftekenen, bijvoorbeeld "er is een vierkant getekend, en de code bevat 'for'".
+Die doelen kun je in principe aftekenen zelfs als je niet zoveel programmeerkennis hebt. Het is een kwestie van kijken of er (bijv) een vierkant staat. Daar waar je iets moet opzoeken de code van een ll, is ook dat zo uitgelegd dat iedereen het kan aftekenen, bijvoorbeeld "er is een vierkant getekend, en de code bevat 'for'".
 
 Natuurlijk verlopen lessen het allerbest als de leerkracht zelf vaardig is in Python en de bijbehorende problemen en misconcepties maar de realiteit is dat niet alle leerkrachten dat op dit moment zijn. 
 Dat is voor deze serie geen probleem! 
