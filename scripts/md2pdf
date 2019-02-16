@@ -13,6 +13,7 @@ while [[ "${1:-}" != "" ]]; do
     # MD -> HTML using PanDoc
     pandoc \
       --css="$scriptdir/github.css" \
+      --highlight=kate \
       "$1" \
       -o "$tempfile" >&2
     
