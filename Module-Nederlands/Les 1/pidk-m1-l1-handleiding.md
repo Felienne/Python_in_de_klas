@@ -24,7 +24,7 @@ Voor deel a heb je nodig:
 
 * [werkblad leerlingen b](https://github.com/Felienne/Python_in_de_klas/blob/master/Module-Nederlands/Les%201/pidk-m1-l1b-werkblad.md) Dit werkblad gebruiken leerlingen tijdens het lesgedeelte achter de computer.
 
-In de opdrachten van Les 1 schrijven leerlingen hun eerste programma. 
+In de opdrachten van deze les schrijven leerlingen hun eerste programma. 
 
 #### Deel c is napraten, weer klassikaal
 
