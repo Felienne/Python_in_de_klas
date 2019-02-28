@@ -2,10 +2,9 @@
 
 Aan het einde van de les kun jij:
 
--  een meerdere woorden opslaan in een lijst
-- woorden in een lijst aanwijzen
+-  woorden in een lijst aanwijzen
 -  voorspellen wat code met een lijst erin doet
-- goede en foute print()-codes vinden met lijsten erin
+-  goede en foute print()-codes vinden met lijsten erin
 
 **Even opfrissen!**
 
@@ -70,7 +69,7 @@ Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 2. hobbies ... [ ... dansen ... , ... voetballen ...]
 ```
 ```python
-3. kleuren ... ... ... groen ... , ... geel ... ... ... ... blauw ... ...
+3. kleuren ... ... ... groen ... , ... geel ... ... ... blauw ... ...
 ```
 
 2) Schijf nu de code voor deze lijsten zelf:
@@ -155,7 +154,7 @@ Wat komt er uit deze codes?
 
 Je krijg je de zin, en moet jij de code afmaken.
 
-1. Er moet geprint worden: 'Ik vind geel mooi' Maak de code af in je schrift.
+1. Er moet geprint worden: 'De deur is geel' Maak de code af in je schrift. TODO: deze was wel veel overschrijfwerk, kunnen we alleen de 2e zin van maken wel.
 ```python
    kleuren = ['blauw', 'geel', 'groen']            
    print('De', 'deur', 'is', kleuren[...])
@@ -232,27 +231,28 @@ Komt er geen fout, schrijf dan op wat de code print.
 
 
 
-2) Nog meer fouten! Hier zijn nog wat codes, maar nu kunnen er ook foutjes in andere dingen staan, niet alleen in de aanwijzer!
+2) Nog meer fouten! Hier zijn nog wat codes. Welke is goed en welke is fout? 
+Let goed op: er kunnen nu ook foutjes in andere dingen staan, niet alleen in de aanwijzer!
 
 ```python
-1 .hobbies = ['dansen', 'voetballen', 'zingen']            
+1. hobbies = ['dansen', 'voetballen', 'zingen']            
    prnt('Zullen', 'we', 'gaan', hobbies[4], 'morgen')
 ```
 ```python
-2 .namen = ['Jan', 'Robin', 'Samir']
+2. namen = ['Jan', 'Robin', 'Samir']
    print('Mijn', 'beste', 'vriend', 'heet', namen['1'])
 ```
 ```python
-3 .talen = ['Python', 'JavaScript', 'HTML']
-   print('De', 'beste', 'programmeertaal', 'is', taal[1] )
+3. talen = ['Python', 'JavaScript', 'HTML']
+   print('De', 'beste', 'programmeertaal', 'is', taal[1]
 ```
 ```python
-4 .snoepjes = ['chocolade', 'zuurtjes', 'drop']
-   print('Ik', 'hou', 'van', snoepjes(2)
+4. snoepjes = ['chocolade', 'zuurtjes', 'drop']
+   print('Ik', 'hou', 'van', snoepjes(2))
 ```
 ```python
-5.straatnamen = ['Witte Hertstraat', 'Takstraat', 'Coolsingel']
-   print('Ik', 'woon', 'in', 'de', straatnamen[2]
+5. straatnamen = ['Witte Hertstraat', 'Takstraat', 'Coolsingel']
+   print('Ik', 'woon', 'in', 'de', 'straatnamen[2]')
 ```
 
 ```python
@@ -271,7 +271,7 @@ Komt er geen fout, schrijf dan op wat de code print.
 
 ```python
 9. vakken = ['Jan', 'Robin', 'Samir']
-   print('Ik', vind', vakken[0], 'een', 'leuk', 'vak')
+   print('Ik', 'vind', vakken[0], 'leuk')
 ```
 
 ```python
@@ -279,7 +279,11 @@ Komt er geen fout, schrijf dan op wat de code print.
    print('De', 'deur', 'is', kleuren[1])
 ```
 
+------
 
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+
+Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 
 
 
