@@ -195,15 +195,9 @@ varken - oink
 
 2) Er zijn vijf dingen heel belangrijk. Schrijf er zoveel mogelijk op in je schrift.
 
-* achter de regel met de if hoort een dubbele punt :
-* achter de regel met else hoort een dubbele punt :
-* regels onder de if beginnen met 2 spaties
-* regels onder de else beginnen met 2 spaties
-* de code gaat nog steeds van boven naar beneden, maar… maar één van de twee takken wordt uitgevoerd
+
 
 3) Je krijgt nu een aantal codes, én de invoer van een gebruiker. Wat wordt er geprint? 
-
-TODO: dit is eigenlijk slim zo duidelijk aangeven wat er moet gebeuren!!! Moeten we ook in de eerdere lessen doen.
 
 Voorbeeld:
 
@@ -234,7 +228,7 @@ De code print: …….
    else:
      print('schudden')
 ```
-De invoer is: geen van beiden.
+De invoer is: pindakaas
 De code print: …....
 
 ------
@@ -245,7 +239,7 @@ Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 
  <div style="page-break-after: always;"></div>
 
-**if-else en variabeles**
+**if-else en variabelen**
 
 1) Je krijgt nu codes waar een if-else in zit én een variabele of een lijst. Wat wordt er geprint? 
 
@@ -258,6 +252,7 @@ Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
    print(dier)
 ```
 De invoer is: kat.
+Wat is de uitvoer?
 
 ```python
 2. if input('hond of kat?') == 'hond':

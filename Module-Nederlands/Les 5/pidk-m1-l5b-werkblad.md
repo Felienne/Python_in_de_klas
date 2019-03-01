@@ -9,7 +9,8 @@ Deze les wordt afgetekend als:
 
 Open een nieuw programma.
 
-Je hebt daar een verhaal van vorige week in staan. Zorg er nu voor de de lezer van je verhaal minstens een keer kan kiezen. Bijvoorbeeld kiezen uit twee dieren.
+Zorg er nu voor de de lezer van je verhaal minstens één keer kan kiezen. 
+Bijvoorbeeld kiezen uit twee dieren.
 
 ```python
 if input('Wil je een verhaal over een hond of een kat?') == 'hond':
@@ -21,6 +22,7 @@ else:
 Tips voor de if-else
 
 * Denk aan de dubbele punten
+* Denk aan de dubbele =
 * Denk aan de spaties
 
 
@@ -53,14 +55,7 @@ Deze les wordt afgetekend als:
 Voeg een nieuwe if-else toe. Zet nu in de takken van de if-else een variabele. Bijvoorbeeld:
 
 ```python
-#een if met een print() erin
-if input('binnen of buiten') == 'binnen':
-  print('Dit verhaal gebeurt in een school.')
-else:
-  print('Dit verhaalt speelt zich af in een bos.')    
-
-#een 'gewone' print()
-print('Nu begint het verhaal!')
+#hierboven staat dus al wat code van eerdere opdrachten!!!
 
 #een print met een variabele
 if input('hond of kat?') == 'hond':
@@ -68,8 +63,6 @@ if input('hond of kat?') == 'hond':
 else:
   dier ='kat'
 
-print('Dit', 'verhaal', 'gaat', 'over', dier, '.')
-print('Het', dier, 'loopt', 'in', 'het', 'bos.')
 ```
 
 
@@ -87,23 +80,7 @@ Deze les wordt afgetekend als:
 Voeg een nieuwe if-else toe. Zet nu in de takken van de if-else nu een lijst. Bijvoorbeeld:
 
 ```python
-#een if met een print() erin
-if input('binnen of buiten') == 'binnen':
-  print('Dit verhaal gebeurt in een school.')
-else:
-  print('Dit verhaalt speelt zich af in een bos.')    
-
-#een 'gewone' print()
-print('Nu begint het verhaal!')
-
-#een print met een variabele
-if input('hond of kat?') == 'hond':
-  dier = 'hond'
-else:
-  dier ='kat'
-
-print('Dit', 'verhaal', 'gaat', 'over', dier, '.')
-print('Het', dier, 'loopt', 'in', 'het', 'bos.')
+#hierboven staat dus al wat code van eerdere opdrachten!!!
 
 #een print met een lijst
 if input('repielen of zoogdieren?') == 'reptielen':
@@ -116,7 +93,38 @@ print('De', 'vriend', 'van', dier, 'is', vrienden[1], '.')
 
 
 
-### Opdracht 5b-5) Voeg een shuffle toe (extra)
+### Opdracht 5b-5) Sla de ingevoerde tekst ook op (extra)
+
+Deze les wordt afgetekend als:
+
+- Je de invoer van een gebruiker opslaat in een variabele
+
+- Je die variabele gebruikt in je verhaal
+
+  
+
+Let op! In deze opdracht komt nieuwe code voor die nog niet is uitgelegd!
+
+Je kunt de invoer van een gebruiker ook opslaan in een variable. Je zet de variabele dan voor de input(), zo:
+
+```python
+dier = input('Over welk dier gaat dit verhaal?')
+print('Dit', 'verhaal', 'gaat', 'over', dier)
+```
+
+Zo kan de gebruiker ieder dier invoeren. Je kunt de input()s zelf aan elkaar koppelen, zo:
+
+```python
+dier = input('Over welk dier gaat dit verhaal?')
+print('Dit', 'verhaal', 'gaat', 'over', dier)
+
+kleur = input('Welke kleur heeft' dier, '?')
+print('Het', dier, 'is', kleur)
+```
+
+
+
+### Opdracht 5b-6) Voeg een shuffle toe (extra)
 
 Deze les wordt afgetekend als:
 
