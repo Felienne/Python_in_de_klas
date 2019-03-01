@@ -2,48 +2,27 @@
 
 ### Slides voor deze les
 
-[Slides](https://slides.com/felienne/pidk-m1-l3a#)
+[Slides](https://slides.com/felienne/pidk-m1-l4a#)
 
 ### Doelen van deze les
 
-Leerlingen leren:
-- tekst opslaan in een variabele
-- een variabele gebruiken om een tekst meerdere keren te printen
-- voorspellen wat een code doet met een variabele erin
-- goede en foute print()-codes vinden met een variabele erin
+TODO (lijsten)
 
 ### Achtergrond voor de leerkracht
-
-#### Variabele
-
-#### Misconcepties
-
-Bij het nakijken van de schriften zag ik dat veel lln nog moeite hadden met een programma waarin een variabele gedeclareerd, maar niet gebruikt wordt.
-Bijvoorbeeld
-
-```python
-2. klas = '1c'
-   print('Hallo', '1c')
-```
-
-Dat mag wel, maar soms denken lln dat dat een foutmelding geeft.
 
 ### Delen van de les
 
 #### Deel a is de klassikale les
 
 Voor deel a heb je nodig:
-* [werkblad leerlingen a](https://github.com/Felienne/Python_in_de_klas/blob/master/Module-Nederlands/Les%201/pidk-m1-l3a-werkblad.md) Dit werkblad gebruiken leerlingen tijdens de klassikale les.
+* [werkblad leerlingen a](https://github.com/Felienne/Python_in_de_klas/blob/master/Module-Nederlands/Les%201/pidk-m1-l4a-werkblad.md) Dit werkblad gebruiken leerlingen tijdens de klassikale les.
 
 #### Deel b is het lesgedeelte achter de computer
 
-* [werkblad leerlingen b](pidk-m1-l3b-werkblad.md) Dit werkblad gebruiken leerlingen tijdens het lesgedeelte achter de computer.
+* [werkblad leerlingen b](pidk-m1-l4b-werkblad.md) Dit werkblad gebruiken leerlingen tijdens het lesgedeelte achter de computer.
 
 In de opdrachten van deze les:
-- maken lln een verhaal waar drie keer een dier in voorkomt (herhaling opdracht 5 van Les 2)
-- slaan ze dat dier op in een variabele
-- gebruiken ze die variabele in het verhaal
-
+TODO
 
 #### Deel c is napraten, weer klassikaal
 
