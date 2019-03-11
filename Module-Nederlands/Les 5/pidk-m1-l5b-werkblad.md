@@ -13,7 +13,7 @@ Zorg er nu voor de de lezer van je verhaal minstens één keer kan kiezen.
 Bijvoorbeeld kiezen uit twee dieren.
 
 ```python
-if input('Wil je een verhaal over een hond of een kat?') == 'hond':
+if input('Wil je een verhaal over een hond of een kat?') == 'kat':
   print('Dit verhaal gaat over een kat.')
 else:
   print('Dit verhaal gaat over een hond.')

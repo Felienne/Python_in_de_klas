@@ -9,7 +9,8 @@ Deze dingen moeten in je verhaal zitten voor een voldoende:
 * Minstens 25 zinnen
 * Minstens 3 variabele die je definieert én gebruikt
 * Minstens 3 keuzes met een if-else
-* Netjes commentaar bovenaan, en bij moeilijke stukjes code
+* Netjes commentaar bovenaan
+* Bij moeilijke stukjes code ook commentaar achter de codes  
 
 
 
@@ -24,3 +25,15 @@ Je kunt extra punten verdienen door:
 
 
 Reminder voor mijzelf: vragen of ze een geo meenemen volgende week!!!
+
+
+
+### Opdracht 6b-2) Wat vond je ervan?
+
+We willen graag weten wat jij van de lessen vond.
+
+Schrijf in je schrift de drie dingen die je het leukst vond
+
+
+
+Lln LK ook vragen om indruk van de les!

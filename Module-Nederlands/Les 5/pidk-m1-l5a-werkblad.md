@@ -1,8 +1,17 @@
+Todos:
+
+* nummerfoutjes
+* uitvoer is geen goed woord
+* waarom geen woorden apart in inpit()
+* regels doorstrepen is beter, takken waren niet goed ingeoefend
+
+
+
 ### if-else
 
 Aan het einde van de les kun jij:
 
--  invoer gebruiken inje programma met `input()`
+-  invoer gebruiken in je programma met `input()`
 -  je verhaal een ander verloop geven op basis van invoer met een if-else commando
 
 **Even opfrissen!**
@@ -11,8 +20,11 @@ Aan het einde van de les kun jij:
 
 **Goed of fout?**
 
-Wat print Python als deze codes worden uitgevoerd?
-Als er een fout in de code zit, schrijf dan FOUT!
+Is de code goed of fout?
+
+* De code is goed -> schrijf wat de code print
+* De code is fout -> schrijf FOUT
+* Extra: schrijf ook **wat** er fout is
 
 ```python
 1. hobbies = ['dansen', 'voetballen', 'zingen']            
@@ -98,7 +110,7 @@ Nu jij!
 
 ```python
    kleuren = ['blauw', 'geel', 'groen']            
-   print('De', 'tru', 'is', kleuren[...])
+   print('De', 'trui', 'is', kleuren[...])
 ```
 
 2. Er moet geprint worden: 'Ik hou van drop' 
@@ -146,33 +158,157 @@ Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 
 **if-else commandos**
 
-We gaan steeds de goede dierengeluiden printen. Deze horen bij elkaar:
+1) Je krijgt een aantal codes, én de invoer van een gebruiker. 
 
-hond - waf
-kat - miauw
-kikker - kwak
-eend - kwek
-koe - boe
-varken - oink
+Wat wordt er geprint? 
 
-1) Maak de codes in je schrift. Schrijf de hele code over! En let op, op drie puntjes moet altijd iets staan!
+Voorbeeld:
 
 ```python
-1. if input('hond of kat?') == 'hond':
+   if input('melk', 'of', 'suiker?') == 'melk':  
+     print('gieten')
+   else:
+     print('schudden')
+   >melk of suiker?melk
+```
+
+De invoer is: melk (kijk bij de >)
+De code print: gieten.
+
+Nu jij!
+
+```python
+1. if input('melk', 'of', 'suiker?') == 'melk': 
+     print('gieten')
+   else:
+     print('schudden')
+   >melk of suiker?suiker
+```
+
+De invoer is: suiker.
+De code print: …….
+
+```python
+2. if input('melk', 'of', 'suiker?') == 'melk': 
+     print('gieten')
+   else:
+     print('schudden')
+  >melk of suiker?pindakaas
+```
+
+De code print: …....
+
+```python
+4. if input('repiel', 'of', 'zoogdier?') == 'reptiel':
+     print('legt', 'een', 'ei')
+   else:
+     print('geeft', 'melk')
+   >repiel, of, zoogdier?reptiel
+```
+
+De code print: …....
+
+```python
+5. if input('repiel', 'of', 'zoogdier?') == 'reptiel':
+     print('legt', 'een', 'ei')
+   else:
+     print('geeft', 'melk')
+   >repiel, of, zoogdier?zepdiel
+```
+
+De code print: …....
+
+```python
+6. if input('repiel', 'of', 'zoogdier?') == 'reptiel':
+     print('legt', 'een', 'ei')
+   else:
+     print('geeft', 'melk')
+   >repiel, of, zoogdier?zoogdier
+```
+
+De code print: …....
+
+```python
+7. if input('Nederlands', 'of', 'Engels') == 'Engels':
+     print('Hallo', 'goedemorgen!')
+   else:
+     print('Hello', 'good morning!')
+   >Nederlands of Engels?engelse
+```
+
+De code print: …....
+
+```python
+8. if input('Nederlands', 'of', 'Engels') == 'Engels':
+     print('Hallo', 'goedemorgen!')
+   else:
+     print('Hello', 'good morning!')
+   >Nederlands of Engels?Engels
+```
+
+De code print: …....
+
+```python
+9. if input('Nederlands', 'of', 'Engels') == 'Engels':
+     print('Hallo', 'goedemorgen!')
+   else:
+     print('Hello', 'good morning!')
+   >Nederlands of Engels?English
+```
+
+De code print: …....
+
+```python
+10.if input('Nederlands', 'of', 'Engels') == 'Engels':
+     print('Hallo', 'goedemorgen!')
+   else:
+     print('Hello', 'good morning!')
+   >Nederlands of Engels?Nederlands
+```
+
+De code print: …....
+
+```python
+11.if input('Nederlands', 'of', 'Engels') == 'Engels':
+     print('Hallo', 'goedemorgen!')
+   else:
+     print('Hello', 'good morning!')
+   >Nederlands of Engels?Nl
+```
+
+De code print: …....
+
+2) Er zijn vijf dingen heel belangrijk bij een if-else. Schrijf er zoveel mogelijk op in je schrift.
+
+3) Nu maak jij de if-else zelf.
+
+We gaan steeds de goede dierengeluiden printen. Deze horen bij elkaar:
+
+* hond - waf
+* kat - miauw
+* kikker - kwak
+* eend - kwek
+* koe - boe
+* varken - oink
+
+1) Wat moet er op de puntjes? Alleen dat hoef je in je schrift te schrijven. 
+
+```python
+1. if input('hond', 'of', 'kat?') == 'hond':
      print(...)
    else:
      print('miauw')
 ```
 
 ```python
-2. if input('hond of kat?') ... 'kat':
+2. if input('hond', 'of', 'kat?') ... 'kat':
      print('miauw')
    else:
      print('waf')
 ```
 
 ```python
-3. if input('eend of kikker?') == ...:
+3. if input('eend', 'of', 'kikker?') == ...:
      print('kwak')
    else:
      print('kwek')
@@ -180,56 +316,20 @@ varken - oink
 
 
 ```python
-4. if input('hond of kat?') == 'hond':
+4. if input('hond', 'of', 'kat?') == 'hond':
      print(...)
    else:
      print('miauw')
 ```
 
 ```python
-5. if input('varken of koe?') == 'koe':
+5. if input('varken', 'of', 'koe?') == 'koe':
      print('boe')
    else:
      print(...)
 ```
 
-2) Er zijn vijf dingen heel belangrijk. Schrijf er zoveel mogelijk op in je schrift.
 
-
-
-3) Je krijgt nu een aantal codes, én de invoer van een gebruiker. Wat wordt er geprint? 
-
-Voorbeeld:
-
-```python
-   if input('melk of suiker?') == 'melk':
-     print('gieten')
-   else:
-     print('schudden')
-```
-
-De invoer is: melk.
-De code print: gieten.
-
-Nu jij!
-
-```python
-1. if input('melk of suiker?') == 'melk':
-     print('gieten')
-   else:
-     print('schudden')
-```
-De invoer is: melk.
-De code print: …….
-
-```python
-2. if input('melk of suiker?') == 'melk':
-     print('gieten')
-   else:
-     print('schudden')
-```
-De invoer is: pindakaas
-De code print: …....
 
 ------
 
@@ -237,96 +337,6 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
 Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 
- <div style="page-break-after: always;"></div>
-
-**if-else en variabelen**
-
-1) Je krijgt nu codes waar een if-else in zit én een variabele of een lijst. Wat wordt er geprint? 
-
-```python
-1. if input('hond of kat?') == 'hond':
-     dier = 'hond'
-   else:
-     dier ='kat'
-
-   print(dier)
-```
-De invoer is: kat.
-Wat is de uitvoer?
-
-```python
-2. if input('hond of kat?') == 'hond':
-     dier = 'hond'
-   else:
-     dier ='kat'
-
-   print('Dit', 'verhaal', 'gaat', 'over', dier)
-```
-De invoer is: hond.
-```python
-3. if input('hond of kat?') == 'hond':
-     dier = 'hond'
-   else:
-     dier ='kat'
-
-   print('Dit', 'verhaal', 'gaat', 'over', dier)
-   print('Het', dier, 'loopt', 'in', 'het', 'bos')
-```
-De invoer is: hond.
-```python
-4. if input('repielen of zoogdieren?') == 'reptielen':
-     dieren = ['hagedis', 'schildpad', 'kameleon']
-   else:
-     dieren = ['kat', 'hond', 'koe']
-
-   print('Dit', 'verhaal', 'gaat', 'over', dieren[1])
-```
-De invoer is: reptielen.
-```python
-5. if input('repielen of zoogdieren?') == 'reptielen':
-     dieren = ['hagedis', 'schildpad', 'kameleon']
-   else:
-     dieren = ['kat', 'hond', 'koe']
-
-   print('Dit', 'verhaal', 'gaat', 'over', dieren[1])
-```
-De invoer is: zoogdieren.
-
-```python
-6. if input('repielen of zoogdieren?') == 'reptielen':
-     dieren = ['hagedis', 'schildpad', 'kameleon']
-   else:
-     dieren = ['kat', 'hond', 'koe']
-
-   print('Dit', 'verhaal', 'gaat', 'over', dieren[1])
-```
-
-De invoer is: huisdieren.
-
-```python
-2. if input('hond of kat?') == 'hond':
-     dier = 'hond'
-   else:
-     dier ='kat'
-
-   print('Dit', 'verhaal', 'gaat', 'over', dier)
-```
-De invoer is: melk.
-```python
-2. if input('hond of kat?') == 'hond':
-     dier = 'hond'
-   else:
-     dier ='kat'
-
-   print('Dit', 'verhaal', 'gaat', 'over', dier)
-```
-------
-
-Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
-
-Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
-
- <div style="page-break-after: always;"></div>
 
 
 **Fouten bij if-else commando's**
@@ -339,103 +349,99 @@ Komt er geen fout, schrijf dan op wat de code print.
 Voorbeeld:
 
 ```python
-if input('Frans of Engels?') == 'Frans':
+if input('Frans', 'of', 'Engels') == 'Frans':
   print('Bonjour!')
 else:
    print('Hello!')
+   >Frans of Engels?Frans
 ```
 
-De invoer is: suiker.
-De code…. print 'schudden'
-
+De code…. print 'Bonjour'
 Voorbeeld:
 
 ```python
-if input('Frans of Engels?') == 'Frans'
+if input('Frans', 'of', 'Engels') == 'Frans'
   print('Bonjour!')
 else:
    print('Hello!')
+   >Frans of Engels?Frans
 ```
 
-De invoer is: suiker.
-De code…. is fout, want de eerste regel mist een :
-
-
+De invoer is: Frans.
+De code…. is FOUT, want de eerste regel mist een :
 
 Nu jij!
 
 ```python
-1. if input('Frans of Engels?') == 'Frans':
+1. if input('Frans', 'of', 'Engels') == 'Frans':
      print('Bonjour!')
    else
      print('Hello!')
+   >Frans of Engels?Frans
 ```
-De invoer is: Frans.
-
 ```python
-2. if input('Frans of Engels?') == 'Frans':
+2. if input('Frans', 'of', 'Engels') = 'Frans':
      print('Bonjour!')
    else:
      print('Hello!')
+   >Frans of Engels?Frans
 ```
-De invoer is: Frans.
 ```python
-3. if input('Frans of Engels?') == 'Frans':
+3. if input('Frans', 'of', 'Engels') == 'Frans':
    print('Bonjour!')
    else:
      print('Hello!')
+   >Frans of Engels?Engels   
 ```
-De invoer is: Frans.
 ```python
-4. if input('Frans of Engels?') == 'Frans':
+4. if input('Frans', 'of', 'Engels') == 'Frans':
+   print('Bonjour!')
+   else:
+     print('Hello!')
+   >Frans of Engels?Engels          
+```
+```python
+5. if input('Frans', 'of', 'Engels') = 'Frans':
      print('Bonjour!')
    else:
      print('Hello!')
+   >Frans of Engels?Engels
 ```
-De invoer is: Engels.
 ```python
-5. if input('Frans of Engels?') = 'Frans':
+6. if input('Frans', 'of', 'Engels') == 'Frans':
+     print('Bonjour!)
+   else:
+     print(Hello!')
+   >Frans of Engels?Engels        
+```
+```python
+7. if input('Frans', 'of', 'Engels') == 'Frans':
      print('Bonjour!')
    else:
      print('Hello!')
+   >Frans of Engels?Duits  
 ```
-De invoer is: Engels.
 ```python
-6. if input('Frans of Engels?') == 'Frans':
-     print('Bonjour!')
-   else:
-     print('Hello!')
-```
-De invoer is: Engels.
-```python
-7. if input('Frans of Engels?') == 'Frans':
-     print('Bonjour!')
-   else:
-     print('Hello!')
-```
-De invoer is: Duits.
-```python
-8. if input('Duits of Nederlands?') == 'Duits':
+8. if input('Duits', 'of', 'Nederlands') == 'Duits':
    print('Gutenabend!')
    else:
    print('Goedeavond!')
+   >Duits of Nederlands?Duits  
 ```
-De invoer is: Duits.
 ```python
-9. if input('Duits of Nederlands?') == 'Duits':
+9. if input('Duits', 'of', 'Nederlands') == 'Duits':
      print('Gutenabend!')
    else
      print('Goedeavond!')
+   >Duits of Nederlands?Frans  
 ```
-De invoer is: Frans.
 ```python
-10.if input('Duits of Nederlands?') == 'Duits':
+10.if if input('Duits', 'of', 'Nederlands') == 'Duits':
      print('Gutenabend!')
    else:
-     print('Goedeavond!')
+   print('Goedeavond!')
+     >Duits of Nederlands?Nederlands  
 ```
-
-De invoer is: Nederlands.
 
 
 
