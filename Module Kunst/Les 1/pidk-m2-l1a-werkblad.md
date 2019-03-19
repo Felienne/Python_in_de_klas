@@ -6,9 +6,6 @@ Aan het einde van de les kun jij:
 - systematisch een driehoek tekenen
 - systematisch een spirograaf tekenen
 - de bijbehorende Python-code schrijven
-- goede en foute print-codes vinden
-
-
 
 **Teken verschillende figuren**
 
@@ -42,21 +39,25 @@ Teken een driehoek, maar doe het weer volgens dit schema.
 
 
 
+------
 
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+
+ <div style="page-break-after: always;"></div>
 
 **Tekenen en code**
 
-1) Teken een vierkant. Ga terug naar het vierkant dat je hebt getekend in je schrift. 
-Zet deze nummers erbij, op dezelfde plek.
+1) Ga terug naar het vierkant dat je hebt getekend in je schrift. 
+Zet deze nummers erbij, op dezelfde plekken.
 
-![image-20181207103857118](/Users/Felienne/Library/Application%20Support/typora-user-images/image-20181207103857118.png)
+![image-20190318113800332](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318113800332.png)
 
 Om dit in Python te tekenen, heb je deze twee opdrachten nodig:
 
-- pen.forward(100)
-- pen.left(90)
+- pen.forward(100) 
+- pen.left(90) 
 
-Zet jij deze opdrachten bij de juiste plekken in de tekening? Je moet iedere opdracht vier keer gebruiken. Schrijf de codes op volgorde op in je schrift.
+Zet jij deze opdrachten bij de juiste plekken in de tekening? Je moet iedere opdracht vier keer gebruiken. Schrijf de codes op volgorde op in je schrift. 
 
 1. ...
 2. ...
@@ -67,13 +68,13 @@ Zet jij deze opdrachten bij de juiste plekken in de tekening? Je moet iedere opd
 7. ...
 8. ...
 
+ <div style="page-break-after: always;"></div>
+
+2) Ga terug naar de driehoek dat je hebt getekend in je schrift.  
 
 
-2) Maak een driehoek
 
-Hier staat een driehoek.
-
-![image-20181207104217890](/Users/Felienne/Library/Application Support/typora-user-images/image-20181207104217890.png)
+![image-20190318113820172](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318113820172.png)
 
 1. Welke som reken je uit om een driehoek te maken? Schrijf de som in je schrift.
 
@@ -83,10 +84,10 @@ pen.left(……..)
 
 3. Een driehoek maak je met:
 
-- pen.left(……..) <-- hier komt het getal dat je bij opdracht 1 hebt berekend
+- pen.left(……..) <— dit is het commando voor draaien. Hier komt het getal dat je bij opdracht 1 hebt berekend
 - pen.forward(100)
 
-Zet jij nu deze opdrachten bij de juiste plekken in de tekening? Je moet allebei de Python opdrachten drie keer gebruiken. Schrijf het hier op:
+Zet jij nu deze opdrachten bij de juiste plekken in de tekening? Je moet allebei de Python opdrachten drie keer gebruiken. Schrijf het in je schrift:
 
 1. ...
 2. ...
@@ -106,10 +107,15 @@ Reken uit in je schrift:
 * Hoeveel moet je draaien voor een zesendertighoek?
 * Hoeveel moet je draaien voor een dertighoek?
 
+------
 
-**Een niet-passende hoek**
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
-1) Maak een spirograaf
+ <div style="page-break-after: always;"></div>
+
+**Nog meer figuren**
+
+1) Maak een "spirograaf" figuur op papier
 
 Kies nu een eigen getal, waardoor 360 niet mooi deelbaar is. Schrijf je getal in je schrift.
 
@@ -121,132 +127,94 @@ Teken nu het figuur dat bij die hoek hoort.
 
 Doe dit een paar keer, minstens 10!
 
+2) Hier staan codes, welke figuren maken deze codes? Teken ze in je schrift.
 
+Let op! Het zijn niet altijd complete figuren!
 
-
-
------
-
-
-
-Voor in de slides:
-
-Nu gaan we uitvinden wat er gebeurt als we een hoek kiezen waardoor 360 niet mooi deelbaar is. Laat leerlingen eens zo'n getal verzinnen (met wisbordjes bij voorkeur). 
-
-
-
-Kies een leuk getal (bijv 100) en teken zelf het figuur op het bord.
-
-In het begin zit het er een beetje gek uit:
-
-![image-20181207082849999](/Users/Felienne/Library/Application%20Support/typora-user-images/image-20181207082849999.png)
-
-Maar na naar een aantal stappen krijg je dit:
-
-![image-20181207082814644](/Users/Felienne/Library/Application%20Support/typora-user-images/image-20181207082814644.png)
-
-
-
-Dit is voor de slides:
-
-**Vierkant**
-
-
-
-Doe deze stappen zelf op het bord voor. Het is ideaal als je bij wiskunde even zo'n grote geo leent om het duidelijk voor te doen. Wat ik zelf ook doe:
-
-- afstanden bij de lijnen
-- in een andere kleur de draai aangeven, met de richting en het aantal graden
-
-Dat ziet er dan zo uit:
-
-![image-20181207090524855](/Users/Felienne/Library/Application%20Support/typora-user-images/image-20181207090524855.png)
-
-**Driehoek**
-
-Nu gaan lln op papier een **driehoek** maken. 
-
-Leg uit/herhaal dat een figuur dat terug op zijn beginpunt komt, altijd hieken van samen 360 graden heeft. 
-
-
-
-
-
-"Kijk maar een vierkant is 90 + 90 + 90 + 90, dan ben ik dus 'rond'. Als ik nu drie hoeken wil, welke som moet ik dan oplossen (dat is 360/3). Wat is 360/3? Nou 120"
-
-Nu gaan we lln vragen een (gelijkzijdige) driehoek te tekenen op dezelfde manier als we het vierkant deden. 90 graden lukte misschien nog wel zonder geo, maar nu zullen ze echt moeten gaan meten, anders wordt het niks bij de meesten.
-
-
-
------
-
-
-
-
-
-**Klassikale uitleg Python Turtle**
-
-Nu de leerlingen bekend zijn met de opdracht, en hun voorkennis van hoeken geactiveerd hebben, is het tijd om wat Python te gaat oefenen. Ook met Python kun je tekenen, dat gaat met iets dat 'Turtle' heet.
-
-Ga naar deze Python-code: https://repl.it/@Felienne/Kunstles-start
-
-
-
-Dit staat al voor je klaar:
+Tip: Als je het niet weet, teken dan precies na met je geodriehoek.
 
 ```python
-import turtle
-
-pen = turtle.Turtle() # hier maken we de pen aan, dat is het driehoekje dat tekent
-pen.speed(1) # zet de snelheid langzamer, dan zie je alles beter
+1.
+pen.forward(100)
+pen.left(90)
+pen.forward(100)
+pen.left(90)
+pen.forward(100)
 ```
 
-Deze code is het al het ware verplicht om de tekentool op te starten. Spreek goed met leerlingen af dat ze hier niet aan rommelen want dan werkt het niet meer goed.
-
-Onder deze regels kan het echte tekenen beginnen. Dezelfde dingen die we op papier hebben gedaan, kunnen ook in Python, met deze codes:
-
-- ```pen.forward(10)``` betekent ga 10 vooruit. Niet 10 cm, maar 10 pixels! 100 is een betere voorbeeld voor op het digibord, anders zien lln het niet goed.
-- ```pen.left(90)``` betekent draai de pen linksom, 90 graden
-
-Met die stappen kunnen we dus al een vierkant tekenen. 
-
-Doe dat eerst voor op het bord, waarbij je duidelijk aangeeft welke stappen welke betekenis hebben in Python, ik doe dat zo:
-
-![image-20181207094109380](/Users/Felienne%201/Library/Application%20Support/typora-user-images/image-20181207094109380.png)
-
-
-
-Als ze dit goed onder de knie hebben, dan kun je de Python code onderaan het document toevoegen:
+```python
+2.
+pen.forward(100)
+pen.left(120)
+pen.forward(100)
+pen.left(120)
+```
 
 ```python
+3.
 pen.forward(100)
-pen.left(90)
-
+pen.left(60)
 pen.forward(100)
-pen.left(90)
-
+pen.left(60)
 pen.forward(100)
-pen.left(90)
-
-pen.forward(100)
-pen.left(90)
+pen.left(60)
 ```
 
 
+3) Nu andersom. Weet jij met welke code je deze figuren tekent? Schijf de codes in je schrift.
 
-De lege regels hoeven niet, maar ik vind ze wel overzichtelijk, zo zie je goed dat het vier stappen zijn.
+1. ![image-20190318130624359](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318130624359.png)
+2. ![image-20190318125720956](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318125720956.png)
+3. ![image-20190318130244515](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318130244515.png)
 
+ <div style="page-break-after: always;"></div>
 
+**Extraatje!**
 
-Dit gaan leerlingen ook oefenen op hun aftekenvellen, dus het is goed als ze dit even voor zich zien.
+Deze opdrachten zijn **extramoeilijk**! Maak ze alleen als je al klaar bent met de rest van de opdrachten.
 
-Nog een aantal tips:
+Eerst krijg je codes, en dan tekeningen.
 
-- Lees de codes nog even hardop:
-  - pen punt forward ronde haak openen 10 ronde haak sluiten
-  - pen punt left ronde haak openen 90 ronde haak sluiten
-- Stip ook even de betekenissen (en uitspraak) hier aan:
-  - forward betekent "ga vooruit"
-  - left betekent links, maar in deze code betekent het "draai linksom", dus niet "ga naar links"
+```python
+1.
+pen.forward(100)
+pen.left(80)
+pen.forward(100)
+pen.left(80)
+pen.forward(100)
+pen.left(80)
+pen.forward(100)
+pen.left(80)
+```
 
-Na deze uitleg kun je de leerlingvellen met lesdoelen 2, 3, 4 en 5 uitdelen!
+```python
+2.
+pen.forward(100)
+pen.left(180)
+pen.forward(100)
+pen.left(180)
+pen.forward(100)
+```
+
+```python
+3.
+pen.forward(100)
+pen.left(120)
+pen.forward(100)
+pen.left(120)
+pen.forward(100)
+pen.left(30)
+pen.forward(100)
+pen.left(90)
+pen.forward(100)
+pen.left(90)
+pen.forward(100)
+```
+
+ <div style="page-break-after: always;"></div>
+
+Schrijf nu weer de codes op die bij deze figuren horen.
+
+1. ![image-20190318130606702](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318130606702.png)
+2. ![image-20190318125810948](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318125810948.png)
+3. ![image-20190318130138855](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318130138855.png)

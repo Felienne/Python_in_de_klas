@@ -165,7 +165,7 @@ Wat wordt er geprint?
 Voorbeeld:
 
 ```python
-   if input('melk', 'of', 'suiker?') == 'melk':  
+   if input('melk of suiker') == 'melk':  
      print('gieten')
    else:
      print('schudden')
@@ -178,7 +178,7 @@ De code print: gieten.
 Nu jij!
 
 ```python
-1. if input('melk', 'of', 'suiker?') == 'melk': 
+1. if input('melk of suiker') == 'melk': 
      print('gieten')
    else:
      print('schudden')
@@ -189,7 +189,7 @@ De invoer is: suiker.
 De code print: …….
 
 ```python
-2. if input('melk', 'of', 'suiker?') == 'melk': 
+2. if input('melk of suiker') == 'melk': 
      print('gieten')
    else:
      print('schudden')
@@ -199,7 +199,7 @@ De code print: …….
 De code print: …....
 
 ```python
-4. if input('repiel', 'of', 'zoogdier?') == 'reptiel':
+4. if input('repiel of zoogdier') == 'reptiel':
      print('legt', 'een', 'ei')
    else:
      print('geeft', 'melk')
@@ -209,7 +209,7 @@ De code print: …....
 De code print: …....
 
 ```python
-5. if input('repiel', 'of', 'zoogdier?') == 'reptiel':
+5. if input('repiel of zoogdier') == 'reptiel':
      print('legt', 'een', 'ei')
    else:
      print('geeft', 'melk')
@@ -219,7 +219,7 @@ De code print: …....
 De code print: …....
 
 ```python
-6. if input('repiel', 'of', 'zoogdier?') == 'reptiel':
+6. if input('repiel of zoogdier') == 'reptiel':
      print('legt', 'een', 'ei')
    else:
      print('geeft', 'melk')
@@ -229,7 +229,7 @@ De code print: …....
 De code print: …....
 
 ```python
-7. if input('Nederlands', 'of', 'Engels') == 'Engels':
+7. if input('Nederlands of Engels') == 'Engels':
      print('Hallo', 'goedemorgen!')
    else:
      print('Hello', 'good morning!')
@@ -239,7 +239,7 @@ De code print: …....
 De code print: …....
 
 ```python
-8. if input('Nederlands', 'of', 'Engels') == 'Engels':
+8. if input('Nederlands of Engels') == 'Engels':
      print('Hallo', 'goedemorgen!')
    else:
      print('Hello', 'good morning!')
@@ -249,7 +249,7 @@ De code print: …....
 De code print: …....
 
 ```python
-9. if input('Nederlands', 'of', 'Engels') == 'Engels':
+9. if input('Nederlands of Engels') == 'Engels':
      print('Hallo', 'goedemorgen!')
    else:
      print('Hello', 'good morning!')
@@ -259,7 +259,7 @@ De code print: …....
 De code print: …....
 
 ```python
-10.if input('Nederlands', 'of', 'Engels') == 'Engels':
+10.if input('Nederlands of Engels') == 'Engels':
      print('Hallo', 'goedemorgen!')
    else:
      print('Hello', 'good morning!')
@@ -269,7 +269,7 @@ De code print: …....
 De code print: …....
 
 ```python
-11.if input('Nederlands', 'of', 'Engels') == 'Engels':
+11.if input('Nederlands of Engels') == 'Engels':
      print('Hallo', 'goedemorgen!')
    else:
      print('Hello', 'good morning!')
@@ -294,21 +294,21 @@ We gaan steeds de goede dierengeluiden printen. Deze horen bij elkaar:
 1) Wat moet er op de puntjes? Alleen dat hoef je in je schrift te schrijven. 
 
 ```python
-1. if input('hond', 'of', 'kat?') == 'hond':
+1. if input('hond of kat') == 'hond':
      print(...)
    else:
      print('miauw')
 ```
 
 ```python
-2. if input('hond', 'of', 'kat?') ... 'kat':
+2. if input('hond of kat') ... 'kat':
      print('miauw')
    else:
      print('waf')
 ```
 
 ```python
-3. if input('eend', 'of', 'kikker?') == ...:
+3. if input('eend of kikker') == ...:
      print('kwak')
    else:
      print('kwek')
@@ -316,14 +316,14 @@ We gaan steeds de goede dierengeluiden printen. Deze horen bij elkaar:
 
 
 ```python
-4. if input('hond', 'of', 'kat?') == 'hond':
+4. if input('hond of kat') == 'hond':
      print(...)
    else:
      print('miauw')
 ```
 
 ```python
-5. if input('varken', 'of', 'koe?') == 'koe':
+5. if input('varken of koe') == 'koe':
      print('boe')
    else:
      print(...)
@@ -349,7 +349,7 @@ Komt er geen fout, schrijf dan op wat de code print.
 Voorbeeld:
 
 ```python
-if input('Frans', 'of', 'Engels') == 'Frans':
+if input('Frans of Engels') == 'Frans':
   print('Bonjour!')
 else:
    print('Hello!')
@@ -360,7 +360,7 @@ De code…. print 'Bonjour'
 Voorbeeld:
 
 ```python
-if input('Frans', 'of', 'Engels') == 'Frans'
+if input('Frans of Engels') == 'Frans'
   print('Bonjour!')
 else:
    print('Hello!')
@@ -373,7 +373,7 @@ De code…. is FOUT, want de eerste regel mist een :
 Nu jij!
 
 ```python
-1. if input('Frans', 'of', 'Engels') == 'Frans':
+1. if input('Frans of Engels') == 'Frans':
      print('Bonjour!')
    else
      print('Hello!')
@@ -387,14 +387,14 @@ Nu jij!
    >Frans of Engels?Frans
 ```
 ```python
-3. if input('Frans', 'of', 'Engels') == 'Frans':
+3. if input('Frans of Engels') == 'Frans':
    print('Bonjour!')
    else:
      print('Hello!')
    >Frans of Engels?Engels   
 ```
 ```python
-4. if input('Frans', 'of', 'Engels') == 'Frans':
+4. if input('Frans of Engels') == 'Frans':
    print('Bonjour!')
    else:
      print('Hello!')
@@ -408,14 +408,14 @@ Nu jij!
    >Frans of Engels?Engels
 ```
 ```python
-6. if input('Frans', 'of', 'Engels') == 'Frans':
+6. if input('Frans of Engels') == 'Frans':
      print('Bonjour!)
    else:
      print(Hello!')
    >Frans of Engels?Engels        
 ```
 ```python
-7. if input('Frans', 'of', 'Engels') == 'Frans':
+7. if inputinput('Frans of Engels') == 'Frans':
      print('Bonjour!')
    else:
      print('Hello!')
@@ -429,7 +429,7 @@ Nu jij!
    >Duits of Nederlands?Duits  
 ```
 ```python
-9. if input('Duits', 'of', 'Nederlands') == 'Duits':
+9. if input('Duits of Nederlands') == 'Duits':
      print('Gutenabend!')
    else
      print('Goedeavond!')

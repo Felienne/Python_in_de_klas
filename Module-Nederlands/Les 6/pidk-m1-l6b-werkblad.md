@@ -2,7 +2,7 @@
 
 Je hebt de afgelopen weken een hoop geleerd. 
 
-Nu is het tijd om een heel verhaal te maken. Je krijgt hiervoor een cijfer. 
+Nu is het tijd om een heel verhaal te maken. **Je krijgt hiervoor een cijfer.** 
 
 Deze dingen moeten in je verhaal zitten voor een voldoende:
 
@@ -24,16 +24,11 @@ Je kunt extra punten verdienen door:
 
 
 
-Reminder voor mijzelf: vragen of ze een geo meenemen volgende week!!!
-
-
-
 ### Opdracht 6b-2) Wat vond je ervan?
 
-We willen graag weten wat jij van de lessen vond.
+We willen graag weten wat jij van de lessen tot nu toe vond.
 
-Schrijf in je schrift de drie dingen die je het leukst vond
+Schrijf in je schrift de **drie dingen** die je het leuk vond.
+Schrijf ook op wat je het minst leuk vond.
 
 
-
-Lln LK ook vragen om indruk van de les!
