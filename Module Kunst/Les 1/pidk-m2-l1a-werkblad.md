@@ -13,7 +13,7 @@ Aan het einde van de les kun jij:
 
 Voor we aan het programmeren gaan, gaan we eerst op papier oefenen. Teken een vierkant in je schrift, maar… doe het precies volgens dit schema! 
 
-**Let op:** Maak je vierkant lekker groot, minstens een halve pagina in je schrift. Want je moet er straks Python codes bij zetten.
+**Let op:** Begin in het midden van je blad, anders past het niet. Zorg ook dat er genoeg ruimte naast het figuur is, want je moet er straks Python codes bij zetten.
 
 - Begin in de tekenrichting 'rechts'
 - Ga 5 cm in de tekenrichting (rechts nu dus)
@@ -50,17 +50,14 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 1) Ga terug naar het vierkant dat je hebt getekend in je schrift. 
 Zet deze nummers erbij, op dezelfde plekken.
 
-![image-20190318113800332](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318113800332.png)
+![image-20190322135329083](/Users/Felienne/Library/Application Support/typora-user-images/image-20190322135329083.png)
 
-Om dit in Python te tekenen, heb je deze twee opdrachten nodig:
+Nu gaan we Pythoncodes koppelen aan de stukjes van de tekening? Welke code hoort bij welk stukje. Bijv bij 1 de rechte lijn, die maak je met `pen.forward(100)`. Bij 2 draaien we om, dus daar hoort `pen.left(90)`. Maak jij de codes af?
 
-- pen.forward(100) 
-- pen.left(90) 
+Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde op in je schrift. 
 
-Zet jij deze opdrachten bij de juiste plekken in de tekening? Je moet iedere opdracht vier keer gebruiken. Schrijf de codes op volgorde op in je schrift. 
-
-1. ...
-2. ...
+1. pen.forward(100) 
+2. pen.left(90) 
 3. ...
 4. ...
 5. ...
@@ -72,9 +69,7 @@ Zet jij deze opdrachten bij de juiste plekken in de tekening? Je moet iedere opd
 
 2) Ga terug naar de driehoek dat je hebt getekend in je schrift.  
 
-
-
-![image-20190318113820172](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318113820172.png)
+![image-20190322135525607](/Users/Felienne/Library/Application Support/typora-user-images/image-20190322135525607.png)
 
 1. Welke som reken je uit om een driehoek te maken? Schrijf de som in je schrift.
 

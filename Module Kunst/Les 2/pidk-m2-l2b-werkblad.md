@@ -1,6 +1,4 @@
-
-
-### Opdracht 2b-1) Maak een zeshoek met een for-lus (extra)
+### Opdracht 2b-1) Maak een zeshoek met een for-lus 
 
 Deze les wordt afgetekend als:
 
@@ -12,19 +10,14 @@ Vorige week heb je een zeshoek getekend. Dat ging zo:
 ```python
 pen.forward(100)
 pen.left(60)
-
 pen.forward(100)
 pen.left(60)
-
 pen.forward(100)
 pen.left(60)
-
 pen.forward(100)
 pen.left(60)
-
 pen.forward(100)
 pen.left(60)
-
 pen.forward(100)
 pen.left(60)
 ```
@@ -40,7 +33,7 @@ Denk aan deze tips:
 
 
 
-### Maak een vierkant met een for-lus (extra)
+### Opdracht 2b-2) Maak een vierkant met een for-lus (extra)
 
 Deze les wordt afgetekend als:
 
@@ -57,7 +50,7 @@ for i in range(6):
 ```
 
 **Opdracht.** Als je nu een vierkant wilt maken, moet je de getallen 6 en 60 veranderen. Waarin? 
-Schrijf het hieronder op:
+Schrijf het op in je schrift:
 
 * 6 wordt ....
 * 60 wordt ...
@@ -66,7 +59,61 @@ Schrijf het hieronder op:
 
 Tip: Je hoeft niets anders te veranderen, alleen de getallen.
 
-### Maak een vierkant met een variabele (extra)
+### Opdracht 2b-3) Maak een spirograaffiguur met een for-lus
+
+Deze les wordt afgetekend als:
+
+- Je een spirograafachtig figuur maakt met Python
+- Je daarvoor een forlus hebt gebruikt
+
+In de vorige opdracht heb je een vierkant getekend met een for-lus. Nu willen we een soort sterfiguur. Weet je nog van vorige week wat voor hoek je dan moet gebruiken? En hoevaak dnek je dat je rond moet gaan? Probeer dit figuur zo precies mogelijk na te maken
+
+![image-20190322130521606](/Users/Felienne/Library/Application Support/typora-user-images/image-20190322130521606.png)
+
+**Opdracht.** Teken nu het figuur met een for-lus
+
+### Opdracht 2b-4) Teken een schilderij met twee forlussen
+
+Deze les wordt afgetekend als:
+
+- Je het goede plaatje hebt getekend met Python
+- Je daarvoor twee for-lussen gebruikt
+
+Dit is een schilderij van een berg (met een beetje fantasie!). Kun jij het namaken met Python? Je moet wel twee lussen gebruiken!
+
+![image-20181207110047621](/Users/Felienne/Library/Application%20Support/typora-user-images/image-20181207110047621.png)
+
+
+
+
+
+### Opdracht 2b-5) Maak een huisje met twee forlussen (extra)
+
+Deze les wordt afgetekend als:
+
+- Je het huisje hieronder hebt getekend
+- Je daarvoor twee for-lussen gebruikt
+
+**Opdracht.** Probeer dit huisje na te maken.
+
+![image-20190322131013102](/Users/Felienne/Library/Application Support/typora-user-images/image-20190322131013102.png)
+
+### Opdracht 2b-6) Maak een diamant met twee forlussen (extra)
+
+Deze les wordt afgetekend als:
+
+- Je de diamant hieronder hebt getekend.
+- Je daarvoor twee for-lussen gebruikt
+
+Opdracht. Probeer dit na te maken.
+
+![image-20190322131023789](/Users/Felienne/Library/Application Support/typora-user-images/image-20190322131023789.png)
+
+------
+
+ <div style="page-break-after: always;"></div>
+
+### Opdracht 2b-7) Maak een vierkant met een variabele (extra)
 
 Deze les wordt afgetekend als:
 
@@ -113,24 +160,5 @@ for i in range(...):
     pen.forward(100)
 ```
 
-je code werkt goed als je alleen het aantal hoeken aanpast in de eerste regel, en je dan vanzelf een ander figuur krijgt. Dus aantal_hoeken = 3 maakt een driehoek en aantal_hoeken = 10 maakt een tienhoek.
+**Let op!** Je krijgt alleen een stempel als je het foguur kunt veranderen door alleen de regel `aantal_hoeken = ...`  aan te passen!! Dus bijv aantal_hoeken = 3 maakt een driehoek en aantal_hoeken = 10 maakt een tienhoek.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 

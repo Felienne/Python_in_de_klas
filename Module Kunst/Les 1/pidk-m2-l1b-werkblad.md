@@ -8,7 +8,7 @@ Deze les wordt afgetekend als:
 
 
 
-### Teken een driehoek
+### Opdracht 2b-2) Teken een driehoek
 
 Deze les wordt afgetekend als:
 
@@ -19,7 +19,7 @@ Gebruik de **zes** codes die je daar hebt opgeschreven om een vierkant te tekene
 
 
 
-### Teken een zeshoek 
+### Opdracht 2b-3) Teken een zeshoek 
 
 Deze les wordt afgetekend als:
 
@@ -35,13 +35,13 @@ Je mag ondertussen wel doorwerken aan de rest van de opdrachten.
 ---
  <div style="page-break-after: always;"></div>
 
-### Teken een schilderij (extra)
+### Opdracht 2b-4) Teken een schilderij (extra)
 
 Deze les wordt afgetekend als:
 
 - Je de de tekening met de hand getekend hebt
 - Je de juiste Python codes op papier invult
-- Je het goede plaatje hebt getekend my Python
+- Je het goede plaatje hebt getekend met Python
 
 
 
@@ -55,7 +55,7 @@ Dit is een schilderij van een berg (met een beetje fantasie!)
 
 
 
-### Maak een huisje  (extra)
+### Opdracht 2b-5) Maak een huisje  (extra)
 
 Deze les wordt afgetekend als:
 
@@ -67,7 +67,7 @@ Deze les wordt afgetekend als:
 
 ![image-20190318132016472](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318132016472.png)
 
-###Maak een diamant  (extra)
+###Opdracht 2b-6) Maak een diamant  (extra)
 
 Deze les wordt afgetekend als:
 
@@ -80,7 +80,7 @@ Opdracht. Probeer dit na te maken.
 
 
 
-### Maak je tekening mooier (extra)
+### Opdracht 2b-7) Maak je tekening mooier (extra)
 
 Deze les wordt afgetekend als:
 
