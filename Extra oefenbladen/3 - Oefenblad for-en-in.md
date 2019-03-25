@@ -124,26 +124,27 @@ for getal in even_getallen:
   print(getal - 4)
 ```
 
-2) Nu een paar stukjes code met een accumulator erin!
+2) Nu een paar stukjes code met een accumulator erin. Wat printen deze codes?
 ```python
 even_getallen = [2,4,6,8,10,12]
+total = 0
 for getal in even_getallen:
-  print(getal * getal)   #een sterretje is keer in Python
+  total = total + getal * getal   #een sterretje is keer in Python
+  print(total)
 ```
 ```python
 even_getallen = [2,4,6,8,10,12]
+average = 0
 for getal in even_getallen:
-print(getal + 5)
-```
-```python
-oneven_getallen = [1,3,5,7,9,11,13,15]
-for getal in oneven_getallen
-  print(getal + 10)
+  average = average + getal
+print(average/6)  #/ is delen in Python
 ```
 ```python
 even_getallen = [2,4,6,8,10,12]
+totaal_verschoven = 4
 for getal in even_getallen:
-  print(getal - 4)
+  totaal_verschoven = totaal_verschoven + (getal - 4)
+print(totaal_verschoven)
 ```
 
 

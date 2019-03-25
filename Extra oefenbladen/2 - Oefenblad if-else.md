@@ -33,9 +33,17 @@ Let op deze dingen:
 - dat beginnen met spaties noemen we in het Nederlands inspringen, in het Engels is dat 'indentation'
 - maar één van de twee takken wordt uitgevoerd
 
+Je mag ook een `if` gebruiken zonder `else`. Dan gebeurt er simpelweg niks als de conditie niet waar is. Bijvoorbeeld zo:
 
+```python
+dier = 'kat'
+if dier == 'hond':
+  print('Ik ben Bello')
+```
 
-### if-else oefeningen
+Deze code print niks, want dier is niet gelijk aan 'hond'.
+
+### Opdrachten
 
 1) Je krijgt een aantal codes. Wat wordt er geprint? 
 
@@ -49,8 +57,7 @@ else:
   print('schudden')
 ```
 
-De invoer is: `ingredient` is 'melk'
-De code print: gieten.
+`ingredient` is 'melk', dus de conditie is waar, en de code print: 'gieten'.
 
 Nu jij!
 
@@ -66,8 +73,6 @@ else:
 dier = 'reptiel'   
 if dier == 'reptiel':
   print('legt', 'een', 'ei')
-else:
-  print('geeft', 'melk')
 ```
 
 ```python
@@ -99,8 +104,6 @@ else:
 taal = 'English'   
 if taal == 'Engels':
   print('Hello', 'good morning!')
-else:
-  print('Hallo', 'goedemorgen!')
 ```
 
 2) Er zijn vijf dingen belangrijk bij een if-else. Schrijf er zoveel mogelijk op. Kijk niet terug naar de vorige pagina maar doe het uit je hoofd.
@@ -157,8 +160,6 @@ else
 taal = 'Frans'
 if taal = 'Frans':
   print('Bonjour!')
-else:
-  print('Hello!')
 ```
 
 ```python

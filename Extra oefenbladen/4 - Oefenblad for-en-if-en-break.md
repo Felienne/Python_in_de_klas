@@ -86,7 +86,7 @@ for getal in oneven_getallen:
 ```python
 even_getallen = [2,4,6,8,10,12,14,16,18,20,22,24,26,28,30]
 for getal in even_getallen:
-  if getal > 10 and getal % 4:
+  if getal > 10 and getal % 4
     print(getal)
 ```
 Je hebt eerder een accumulator gezien. Die kan natuurlijk ook samen met een `if`:
@@ -112,15 +112,42 @@ for getal in even_getallen:
     break
 ```
 
-Nu wordt de lus gestopt zodra een getal is gevonden dat 
+Nu wordt de lus gestopt zodra een getal is gevonden dat groter is dan 10 en deelbaar is door 4. De code print dus alleen '12'.
+
+2) Wat printen deze codes?
+
+```python
+snacks = ['chips', 'taco', 'drop', 'toffee']
+for snack in snacks:
+  if 'o' in snack:
+    print('Jammie jammie', snack)
+    break
+```
 
 
+```python
+dieren = ['hagedis', 'hond', 'vogelbekdier', 'kat', 'spookdiertje']
+for dier in dieren:
+  if 'dier' in dier:
+    print('Ik heb thuis een', dier)
+    break
+```
 
+```python
+dieren = ['hagedis', 'hond', 'vogelbekdier', 'kat', 'spookdiertje']
+for dier in dieren:
+  if len(dier) == 4: #len() bepaalt de lengte van een woord
+    print('Ik heb thuis een', dier)
+    break
+```
 
-
-
-
-
+```python
+snacks = ['chips', 'taco', 'drop', 'toffee']
+for snack in snacks:
+  if 'o' == snack:
+    print('Jammie jammie', snack)
+    break
+```
 
 Extraatje! Deze code kun je ook anders schrijven. Schrijf code op die precies hetzelfde doet met minder regels:
 
