@@ -1,9 +1,8 @@
-### Gemiddeldes uitrekenen
+### Kaarten sorteren
 
 Aan het einde van dit werkblad kun jij:
 
--  het gemiddelde uitrekenen van een lijst getallen
--  steeds het lopende gemiddelde printen
+-  kaarten sorteren met code
 
 Spelregels:
 
@@ -14,14 +13,14 @@ Spelregels:
 
 
 
-####Woorden zoeken
-
-Ga naar: https://repl.it/@Felienne/Gemiddeldes-start
+####Een spelletje kaart 
 
 #####Opdracht 1
-Je ziet hier code die de magnitudes inleest uit een bestand. Je hoeft de code niet aan te passen (of zelfs maar te snappen) maar het is wel leuk om te zien hoe wat 'echtere' Pythoncode eruit ziet. Deze code vult de lijst `magnitudes` met de magnitudes van alle aardbevingen van de afgelopen 60 jaar.
+Denk aan een kaartspel waarbij je een hand met kaarten krijgt. Je stopt ze op volgorde in je hand. Probeer eens heel precies op te schrijven hoe je dat aanpakt. Voor het gemak werken we nu even met een lijstje van alleen getallen die de waarde van de kaarten voorstellen.
 
-* Schrijf eerst hieronder in woorden op hoe je het probleem met de hand aan zou pakken:
+Op https://repl.it/@Felienne/Kaarten-start staat code die een lijstje getallen steeds door elkaar schudt. Aan jou de opdracht om de lijst weer netjes te sorteren.
+
+* Schrijf dat hier op:
 
 ……..……..……..……..……..……..……..……..……..……..……..……..……..……..……..……..……..……..
 
@@ -37,28 +36,15 @@ Je ziet hier code die de magnitudes inleest uit een bestand. Je hoeft de code ni
 
 * Omcirkel in de tekst hierboven de onderdelen code zoals je hebt geoefend en schrijf de juiste concepten uit Python erbij.
 
-* Zet de ideeën dan om in code!
+* Zet de ideeën dan om in code, op staat een beginnetje voor je klaar.
 
-Tip: Als het niet lukt, denk er dan ook aan om af te toe tussendoor te printen.
+
 
 **Opdracht 2**
 
-We maken het iets moeilijker. Je moet nu ook een 'moving average' bijhouden, dus het gemiddelde tot nu toe. Je moet steeds printen 'Na …. aardbevingen is het gemiddelde…'.
+We maken het iets moeilijker. Een kaart is nu zelf een lijst die bestaat uit 2 elementen: een kleur en een waarde. Kijk op https://repl.it/@Felienne/Kaarten-start-2 daar staat weer code die de kaarten aanmaakt en schudt.
 
-Dus na de eerste 6 getallen
-
-6
-5.8
-6.2
-5.8
-5.8
-6.7
-
-print jij 'Na 6 aardbevingen is het gemiddelde 6.05'.
-
-Je hoeft de getallen niet af te ronden.
-
- Volg dezelfde stappen als hierboven.
+We gaan de kaarten eerst op kleur sorteren, en dan op waarde.
 
 - Schrijf eerst hieronder in woorden op hoe je het probleem met de hand aan zou pakken:
 
@@ -76,27 +62,18 @@ Je hoeft de getallen niet af te ronden.
 
 - Omcirkel in de tekst hierboven de onderdelen code zoals je hebt geoefend en schrijf de juiste concepten uit Python erbij.
 - Zet je ideeën dan om in code!
+
+
 
 **Opdracht 3**
 
-Nu zijn we geinteresseerd in het hoogste en laagste getal, steeds tot dan toe.  Dus na de eerste 10 getallen
+De laatste opdracht voor jullie! Ga naar https://repl.it/@Felienne/Kaarten-start-3
 
-6
-5.8
-6.2
-5.8
-5.8
-6.7
-5.9
-6
-6
-5.8
+Nu krijg je een echte set kaarten, met niet alleen de getallen 2 tot 10 maar ook boer, vrouw, heer en aas. Je kunt dus niet meer zo makkelijk de waarde van kaarten kunnen vergelijken, daar is extra code voor nodig.
 
-Is zijn die 6.7 en 5.8. Jij print dan Na 10 aardbevingen is het maximum 6.7 en het minimum 5.8'
+In het bestand 'functies.py' hebben we een beginnetje gemaakt van code die je nodig hebt. Maak jij het af?
 
- Volg dezelfde stappen als hierboven.
-
-- Schrijf eerst hieronder in woorden op hoe je het probleem met de hand aan zou pakken:
+Begin niet meteen met de code, maar schrijf toch eerst hieronder in woorden op hoe je het probleem met de hand aan zou pakken:
 
 ……..……..……..……..……..……..……..……..……..……..……..……..……..……..……..……..……..……..
 
@@ -110,5 +87,4 @@ Is zijn die 6.7 en 5.8. Jij print dan Na 10 aardbevingen is het maximum 6.7 en h
 
 .……..……..……..……..……..……..……..…….……..……..……..……..……..……..……..……..……..……..
 
-- Omcirkel in de tekst hierboven de onderdelen code zoals je hebt geoefend en schrijf de juiste concepten uit Python erbij.
-- Zet je ideeën dan om in code!
+- Zet nu ideeën dan om in code!
