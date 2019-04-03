@@ -109,56 +109,6 @@ Opdracht. Probeer dit na te maken.
 
 ![image-20190322131023789](/Users/Felienne/Library/Application Support/typora-user-images/image-20190322131023789.png)
 
-------
+### Opdracht 2b-7) Maak iets leuks (extra)
 
- <div style="page-break-after: always;"></div>
-
-### Opdracht 2b-7) Maak een vierkant met een variabele (extra)
-
-Deze les wordt afgetekend als:
-
-- Je de juiste som voor alle figuren hebt opgeschreven, met de twee variabelen
-- Je een vierkant hebt getekend met Python
-- Het veranderen van alleen de regel `aantal_hoeken = ...` een ander figuur oplevert
-
-In vorige opdrachten heb je een vierkant, een driehoek en toen een zeshoek getekend. Je gebruikt steeds dezelfde som om uit te rekenen welke hoek je gaat draaien, kijk maar:
-
-Bij de driehoek: de hoek is 360 gedeeld door 3
-Bij het vierkant: de hoek is 360 gedeeld door 4
-Bij de zeshoek:  de hoek is 360 gedeeld door 6
-
-We gaan het aantal hoeken nu in een variabele opslaan. 
-
-Dat doen we zo voor de driehoek:
-
-```python
-aantal_hoeken = 3
-```
-
-
-**Opdracht.** Nu moet jij de hoek uitrekenen, hoe moet dat?
-
-* Schrijf het eerst op in woorden:
-
-  hoek = …………. aantal_hoeken
-
-* Schrijf het nu op in Pythoncode
-
-  hoek = …………. aantal_hoeken
-
-
-
-Deze code kun je nu gebruiken in je for-lus. Dan verandert de hoek vanzelf als je het aantal hoeken verandert!
-
-**Opdracht.** Maak deze code af:
-
-```python
-aantal_hoeken = 4
-
-for i in range(...):
-    hoek = .......
-    pen.forward(100)
-```
-
-**Let op!** Je krijgt alleen een stempel als je het foguur kunt veranderen door alleen de regel `aantal_hoeken = ...`  aan te passen!! Dus bijv aantal_hoeken = 3 maakt een driehoek en aantal_hoeken = 10 maakt een tienhoek.
-
+Deze les wordt afgetekend als je zelf iets leuks hebt getekend!

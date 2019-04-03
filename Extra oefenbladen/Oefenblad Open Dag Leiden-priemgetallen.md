@@ -1,4 +1,4 @@
-### Tekstverwerker
+### Priemgetallen
 
 Aan het einde van dit werkblad kun jij:
 

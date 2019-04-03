@@ -76,7 +76,7 @@ Voorbeeld:
 
 ```python
 snacks = ['chips', 'taco', 'drop']
-for snack in snacks:
+for s in snacks:
   print('Ik hou van', s)
 ```
 
