@@ -143,8 +143,6 @@ Nu kun je hele grote figuren krijgen,
 
 ![image-20190107143644430](/Users/Felienne/Library/Application Support/typora-user-images/image-20190107143644430.png)
 
-of piepkleintjes, zo:
-
 ![image-20190107143600261](/Users/Felienne/Library/Application Support/typora-user-images/image-20190107143600261.png)
 
 Deze les wordt afgetekend als:

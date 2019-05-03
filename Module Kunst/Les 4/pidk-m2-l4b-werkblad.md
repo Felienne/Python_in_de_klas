@@ -9,7 +9,7 @@ Deze les wordt afgetekend als:
 
 Denk aan deze tips:
 
-- Maak de opdracht eert zonder variabele. Kijk dan waar je het getal 90 ziet. Dat moet worden vervangen door de variabele hoek.
+- Maak de opdracht eerst zonder variabele. Kijk dan waar je het getal 90 ziet. Dat moet worden vervangen door de variabele hoek.
 - Vergeet ook de dubbele punt :  aan het einde van de `for` niet.
 - En begin met twee spaties onder de `for`!
 
