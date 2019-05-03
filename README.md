@@ -12,6 +12,10 @@ Je kunt de lessen zelfs zonder computers met alleen een digibord gebruiken (sla 
 - Een schift voor iedere leerling
 - (Optioneel) wisbordjes (hierover later meer)
 
+## De uitgeprinte werkbalden
+
+Joh moet ik echt al die vellen printen? Ja... Leerlingen vinden het echt lastig om van een scherm te lezen er ook te programmeren, dat steeds wisselen van tabblad brengt een hoop onrust met zich mee. Ik hou ook veel van bomen en vind papierverspilling zonde, maar dit is toch echt het beste om het uit te printen. Natuurlijk kun je de bladen wel meerdere keren gebruiken, als je leerlingen in hun schrift laat schrijven ipv op de vellen.
+
 ## Moet ik zelf veel Python kunnen om deze lessen te geven?
 
 Niet echt hoor. De slides leggen alles uit dat je moet weten per les, dus die kun je vooraf lezen en dan ga je het wel redden.
