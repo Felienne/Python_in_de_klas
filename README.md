@@ -2,8 +2,8 @@
 
 ## Voor wie is dit materiaal?
 
-Dit materiaal is voor iedere leerkracht die in de klas Pythonlessen wil geven. 
-Het materiaal is echt bedoeld voor in een klassikale setting, met veel uitleg en oefenen. 
+Dit materiaal is voor iedere leerkracht die in de klas Pythonlessen wil geven.
+Het materiaal is echt bedoeld voor in een klassikale setting, met veel uitleg en oefenen.
 Je kunt de lessen zelfs zonder computers met alleen een digibord gebruiken (sla dan deel b over).
 
 ## Wat heb ik nodig om dit materiaal te gebruiken?
@@ -12,7 +12,7 @@ Je kunt de lessen zelfs zonder computers met alleen een digibord gebruiken (sla 
 - Een schift voor iedere leerling
 - (Optioneel) wisbordjes (hierover later meer)
 
-## De uitgeprinte werkbalden
+## De uitgeprinte werkbladen
 
 Joh moet ik echt al die vellen printen? Ja... Leerlingen vinden het echt lastig om van een scherm te lezen er ook te programmeren, dat steeds wisselen van tabblad brengt een hoop onrust met zich mee. Ik hou ook veel van bomen en vind papierverspilling zonde, maar dit is toch echt het beste om het uit te printen. Natuurlijk kun je de bladen wel meerdere keren gebruiken, als je leerlingen in hun schrift laat schrijven ipv op de vellen.
 
@@ -38,21 +38,21 @@ c) klassikale afsluiting
 
 ### Deel a
 
-Deel a is een klassikaal uit te voeren les. 
-Je kunt hiervoor, als je wilt, de meegeleverde slides gebruiken. 
+Deel a is een klassikaal uit te voeren les.
+Je kunt hiervoor, als je wilt, de meegeleverde slides gebruiken.
 Voor deel a (en deel c) zijn geen computers nodig, alleen een digibord en schrijfmaterialen voor lln: schriftjes of wisbordjes.
 
 ### Deel b
 
-In deel b gaan lln zelf aan de slag met werkbladen. 
+In deel b gaan lln zelf aan de slag met werkbladen.
 
 Bovenaan de werkbladen staan steeds doelen voor lln.
-Bijvoorbeeld: "deze opdracht wordt afgetekend als er een vierkant is getekend". 
+Bijvoorbeeld: "deze opdracht wordt afgetekend als er een vierkant is getekend".
 
 Die doelen kun je in principe aftekenen zelfs als je niet zoveel programmeerkennis hebt. Het is een kwestie van kijken of er (bijv) een vierkant staat. Daar waar je iets moet opzoeken de code van een ll, is ook dat zo uitgelegd dat iedereen het kan aftekenen, bijvoorbeeld "er is een vierkant getekend, en de code bevat 'for'".
 
-Natuurlijk verlopen lessen het allerbest als de leerkracht zelf vaardig is in Python en de bijbehorende problemen en misconcepties maar de realiteit is dat niet alle leerkrachten dat op dit moment zijn. 
-Dat is voor deze serie geen probleem! 
+Natuurlijk verlopen lessen het allerbest als de leerkracht zelf vaardig is in Python en de bijbehorende problemen en misconcepties maar de realiteit is dat niet alle leerkrachten dat op dit moment zijn.
+Dat is voor deze serie geen probleem!
 Ook de te verwachten problemen en vragen van lln worden steeds uitgelegd in de leerkrachteninstuctie per lesdoel.
 
 Nog een paar tips over deel b:
@@ -61,7 +61,7 @@ Nog een paar tips over deel b:
   - Hele goede leerlingen demotiveren klasgenoten
   - Leerlingen leiden anderen af met bijv. tekeningen van gezichtjes
   - Zelf dingen uitproberen in Python leidt tot verwarring en frustratie
-  
+
 - Sommige lesdoelen hebben "(extra)" in de titel. Die zijn voor snellere of meer ervaren leerlingen. Die kunnen op de volgorde in de lessenserie waar ze staan gedaan worden, of op het einde van alle lessen. Net hoeveel je wilt dat ze leerlingen uit elkaar gaan lopen qua waar ze zijn.
 
 
@@ -69,7 +69,7 @@ Nog een paar tips over deel b:
 
 Deel c is weer klassikaal uit te voeren les. Dat kan heel kort zijn, 5 of 10 minuutjes om even samen terug te blikken op het individuele deel. De laatste twee slides van deel a, waarin de leerdoelen herhaald worden, kun je hiervoor gebruiken.
 
-Ik vraag dan per leerdoel of lln het idee hebben dat ze het ook echt kunnen. 
+Ik vraag dan per leerdoel of lln het idee hebben dat ze het ook echt kunnen.
 
 ### Algemene tips!
 
@@ -79,13 +79,13 @@ Een aantal algemene tips rondom de lessenserie:
 
 - Als je wisbordjes hebt, raad ik zeker aan die te gebruiken! Een van de uitdagingen van een programmeerles is dat leerlingen soms de mooiste dingen maken, zonder dat ze het goed snappen! Ze proberen dingen tot dat het werkt, of zoeken dingen op op YouTube. Helemaal geen probleem natuurlijk, maar soms hebben ze dan veel minder begrip dan jij denkt. Daarom is het goe dom dat begrip regelmatig te toetsen, juist ook omdat jij als lk misschien zelf ook nog niet alle ins en outs van Python ken. Ik programmeer zelf al 20 jaar en zelfs ik snap niet altijd alles wat lln in elkaar knutselen!
 
-- Als je nieuwe codes laat zien, lees ze dan hardop voor, en laat leerlingen dat ook regelmatig doen. Uit ons eigen onderzoek blijkt dat lln dan beter onthouden hoe ze moeten programmeren. 
+- Als je nieuwe codes laat zien, lees ze dan hardop voor, en laat leerlingen dat ook regelmatig doen. Uit ons eigen onderzoek blijkt dat lln dan beter onthouden hoe ze moeten programmeren.
 
   - Bijvoorbeeld: pen.forward(10) is "pen punt forward rond haakje openen 10 rond haakje sluiten"
 
 - Wees ook heel consequent in het benoemen van karakters in de code. Dus "(" is niet een haakje, maar rond haakje. Op de slides proberen we dat ook zo consequent mogelijk te doen. Als je wilt, kun je onze poster met karakters in je lokaal ophangen.
 
-- Sommige leerlingen hebben weinig ervaring met computeren. Het vinden van zaken op het toetsenbord kan al lastig zijn, zoals de min of de 'tab'. Ook vaardigheden als knippen en plakken met ctrl-c en ctrl-v ontbreken regelmatig, en ook de ctrl-z voor ongedaan maken kennen ze niet altijd. OF ze weten niet hoe ze het moeten invoeren en proberen steeds heel precies ctrl en z tegelijk in te drukken ipv eerst de ctrl en dan de z erbij. Dit zijn geen leerdoelen van deze serie lessen maar de kans is groot dat je er wel tegenaan loopt. 
+- Sommige leerlingen hebben weinig ervaring met computeren. Het vinden van zaken op het toetsenbord kan al lastig zijn, zoals de min of de 'tab'. Ook vaardigheden als knippen en plakken met ctrl-c en ctrl-v ontbreken regelmatig, en ook de ctrl-z voor ongedaan maken kennen ze niet altijd. OF ze weten niet hoe ze het moeten invoeren en proberen steeds heel precies ctrl en z tegelijk in te drukken ipv eerst de ctrl en dan de z erbij. Dit zijn geen leerdoelen van deze serie lessen maar de kans is groot dat je er wel tegenaan loopt.
 
 - Stip steeds even de betekenis en goede uitspraak van de Engelse woorden in de code aan. Ik hoor nog regelmatig leerlingen worstelen met wat die woorden nou zijn. Dit wordt in het materiaal ook benoemd maar uitspraak zeker is ook handig als leerkrachten dat benadrukken. En soms betekenen woorden ook net iets anders in Python. In de tekentool heb je bijv. het commando 'left'. Dat betekent natuurlijk links, maar in deze code betekent het "draai linksom", dus niet "ga naar links". Dat is ook belangrijk om dat even te delen met leerlingen.
 
