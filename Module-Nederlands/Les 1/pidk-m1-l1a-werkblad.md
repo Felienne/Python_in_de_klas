@@ -1,3 +1,4 @@
+## Les 1 Werkblad a 
 ### Printen
 
 Aan het einde van de les kun jij:
@@ -29,15 +30,15 @@ Schrijf de goede code over in je schrift!
 Tip: **Let goed op de aanhalingstekens!**
 
 ```python
-- print Hallo
+1. print Hallo
 
-- print('Hallo")
+2. print('Hallo")
         
-- print(Hallo)
+3. print(Hallo)
         
-- print("Hallo')
+4. print("Hallo')
         
-- print('Hallo')
+5. print('Hallo')
 ```
 
 2) Maak deze print() opdracht zelf af zodat er **Allemaal** in beeld komt.
@@ -59,6 +60,7 @@ Schrijf de code over in je schrift.
 ```___________________```
 
 
+ <div style="page-break-after: always;"></div>
 
 **Meerdere woorden printen**
 
@@ -77,25 +79,27 @@ Op de plek van de komma komt een spatie in de uitvoer.
 
 Python stopt met printen bij een aanhalingsteken. 
 
-1) Welke van deze print() opdrachten print **Hallo 1c** uit? 
+
+1) Welke van deze print() opdrachten print **Hallo klas** uit? 
 
 Schrijf de goede code over in je schrift. Kijk goed naar de aanhalingstekens!
 
 ```python
-- print Hallo, 1c
+1. print Hallo, klas
 
-- print('Hallo', '1c')
+2. print('Hallo', 'klas')
 
-- print('Hallo, 1c')
+3. print('Hallo, klas')
 
-- print(Hallo, 1c)
+4. print(Hallo, klas)
 
-- print("Hallo', '1c")
+5. print("Hallo', 'klas")
 ```
 
-2) Maak deze print() opdracht zelf af zodat er **Allemaal** in beeld komt.
 
-print ... ... Allemaal ... ...
+2) Maak deze print() opdracht zelf af zodat er **Hallo allemaal** in beeld komt.
+
+print ... ... Hallo ... ... ... Allemaal ... ...
 
 Schrijf de code in je schrift.
 
@@ -105,14 +109,13 @@ Schrijf de goede code op in je schrift.
 
 
 
+ <div style="page-break-after: always;"></div>
 **Zinnetjes**
 
 Je kunt zoveel woorden combineren met komma's als je maar wilt!
-
 Bijvoorbeeld:
-
 ```python
-print('Goedemorgen', 'leerlingen', 'uit', '1c')
+print('Goedemorgen', 'leerlingen', 'uit', 'deze', 'klas')
 ```
 
 1) Welke van deze print() opdrachten print **ik hou van programmeren** uit? 
@@ -128,15 +131,15 @@ Tip: Let goed op, de goede code heeft:
 Weet jij welke code goed is?
 
 ```python
-- print('Ik', 'hou', 'van', 'programmeren')
+1. print('Ik', 'hou', 'van', 'programmeren')
 
-- print('Ik', hou, van, 'programmeren')
+2. print('Ik', hou, van, 'programmeren')
 
-- print('Ik', 'hou', 'van' 'programmeren')
+3. print('Ik', 'hou', 'van' 'programmeren')
 
-- print Ik hou van programmeren
+4. print Ik hou van programmeren
 
-- print(Ik hou van programmeren)
+5. print(Ik hou van programmeren)
 ```
 
 
@@ -144,9 +147,9 @@ Weet jij welke code goed is?
 2) Maak deze codes af zodat er een goede zin geprint wordt:
 
 ```python
-- print ... ... Programmeren ... ... ... is ... ... ... leuk ... )
-- print ... ...  Programmeren ...  , ... is ... ... ... leuk ... ...
-- print ...   ' Programmeren ... ... ... is ... ... ... leuk ... ...
+1. print ... ... Programmeren ... ... ... is ... ... ... leuk ... )
+2. print ... ...  Programmeren ...  , ... is ... ... ... leuk ... ...
+3. print ...   ' Programmeren ... ... ... is ... ... ... leuk ... ...
 ```
 
 
@@ -161,6 +164,7 @@ Schrijf drie codes voor zinnetjes in je schrift.
 
 
 
+ <div style="page-break-after: always;"></div>
 **Foutmeldingen**
 
 Soms geeft Python een foutmelding. 
@@ -199,6 +203,7 @@ print('Python'
 ```
 
 
+ <div style="page-break-after: always;"></div>
 
 2) Schrijf zelf nog 3 andere, *verkeerde* codes in je schrift. 
 
