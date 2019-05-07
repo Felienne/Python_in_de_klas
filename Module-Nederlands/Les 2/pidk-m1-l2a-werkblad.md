@@ -1,16 +1,18 @@
+## Les 2: werkblad a
+
 ### Printen
 
 Aan het einde van de les kun jij:
 
-- meerdere meerdere regels kan laten zien
+- meerdere regels laten zien
 
-- 'commentaar' te schrijven en herkennen
+- 'commentaar' schrijven en herkennen
 
 - goede en foute print-codes vinden
 
   
 
-**Even opfrissen!**
+#### **Even opfrissen!**
 
 Vorige week hebben we de print() opdracht gezien. 
 
@@ -46,7 +48,7 @@ Tip: **Let goed op de aanhalingstekens!**
 - print('Goedemorgen')
 ```
 
-
+<div style="page-break-after: always;"></div>
 
 2) Welke van deze print() opdrachten print **Python is een programmeertaal** uit? 
 
@@ -91,13 +93,11 @@ Schrijf de code voor het zinnetje in je schrift.
 ---
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel 
 
-<div style="page-break-after: always;"></div>
-
 ---
 
+<div style="page-break-after: always;"></div>
 
-
-**Onder elkaar**
+#### **Onder elkaar**
 
 1) Wat printen deze codes uit? Schrijf het antwoord op in je schrift! Wees *heel* precies.
 
@@ -134,13 +134,11 @@ Let op: **Er zitten ook foute codes tussen!** Als een code fout is, schrijf dan 
 
 Welke code hoort bij welk resultaat?
 
-## TODO deze opmaak is niet duidelijk!!
-
 Schrijf de codes over in je schrift, met het resultaat erachter. 
 
 Bijvoorbeeld:
 
-print('test')      > test
+print('test')	> 	test
 
 Let op: een van de drie codes geeft een fout.
 
@@ -167,10 +165,10 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
 <div style="page-break-after: always;"></div>
 
-**Commentaar**
+#### **Commentaar**
 
 Je kunt Python ook codes laten overslaan met een hekje. 
-Een hekje ziet er zo uit: # Het staat boven de 3 op je toetsenbord. 
+Een hekje ziet er zo uit: # 	Het hekje staat boven de 3 op je toetsenbord. 
 Iedere regel die achter een hekje staat, wordt overgeslagen.
 
 1) Er zijn drie redenen waarom je commentaar gebruikt in een programma. 
@@ -180,13 +178,7 @@ Schrijf die redenen in je schrift.
 
 Welke code hoort bij welk resultaat?
 
-Schrijf de codes over in je schrift, met het resultaat erachter. 
-
-Bijvoorbeeld:
-
-## TODO deze opmaak is niet duidelijk!!
-
-print('test')      > test
+Schrijf de codes over in je schrift, met het resultaat erachter. Bijvoorbeeld: print('test')      > 	test
 
 **Let op:** een van de drie codes geeft een fout.
 
@@ -209,18 +201,15 @@ print(#Hallo)
 
 Resultaten:
 
-Hallo
-Hallo
+* Hallo
 
--
+* Hallo
 
-Hallo
+  Hallo
 
--
+* Deze code geeft een fout.
 
-Deze code geeft een fout.
-
-
+<div style="page-break-after: always;"></div>
 
 3) Hieronder staan vijf codes met commentaar erin. Wat printen deze codes uit?
 

@@ -11,9 +11,7 @@ Deze les wordt afgetekend als:
 
 Voor als je het vergeten bent:
 
-- Als emailadres heb je je school-email gebruikt:
-
-  - 123456@student.lmc-vo.nl <--- maar dan met jouw leerlingnummer natuurlijk
+- Als emailadres heb je je school-email gebruikt
 
 - Je wachtwoord is je wachtwoord van school
 
@@ -44,12 +42,11 @@ Jij gaat een zin uitprinten in Python: *Welkom in de programmeerles.*
 
 Denk aan de punt!
 
+------
 
+<div style="page-break-after: always;"></div>
 
----
- <div style="page-break-after: always;"></div>
----
-
+------
 
 
 ### Opdracht 2b-3) Voeg commentaar toe
@@ -92,7 +89,7 @@ Zet deze regels **in commentaar** bovenaan je programma:
 Deze les wordt afgetekend als:
 
 - Je bovenaan je programma netjes commentaar hebt geschreven
-- Je drie zinnen print met print(), compleet met hoofdletters en een punt op het einde! 
+- Je drie zinnen print met print(), compleet met hoofdletters aan het begin van de zin en een punt op het einde! 
 
 
 
@@ -107,6 +104,7 @@ Print eronder nu drie zinnen. Je mag de zinnen zelf bedenken.
 ------
 
 
+<div style="page-break-after: always;"></div>
 
 ------
 
@@ -127,13 +125,20 @@ Noem het programma: 'les2-b-deel-2'
 Deze les wordt afgetekend als:
 
 - Je bovenaan je programma netjes commentaar hebt geschreven
-- Je een samenhangen verhaal van minstens drie zinnen print met print(), compleet met hoofdletters en een punt op het einde! 
-- Her verhaal als hoofdrolspeler ene dier heeft. Je mag zelf kiezen welk dier.
-
+- Je een samenhangend verhaal van minstens drie zinnen print met print(), compleet met hoofdletters en een punt op het einde! 
+- Het verhaal als hoofdrolspeler een dier heeft. Je mag zelf kiezen welk dier.
 
 
 **Opdracht.** 
 
 Laat de regels commentaar die je al had staan. 
 
-Print eronder nu een verhaal over een dier. Je mag het zelf bedenken.
+Print eronder nu een verhaal over een dier. Je mag zelf bedenken waar het verhaal over gaat.
+
+
+------
+
+Einde werkblad!
+
+------
+
