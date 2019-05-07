@@ -18,15 +18,14 @@ Leerlingen leren:
 
 #### Misconcepties
 
-Bij het nakijken van de schriften zag ik dat veel lln nog moeite hadden met een programma waarin een variabele gedeclareerd, maar niet gebruikt wordt.
-Bijvoorbeeld
+Leerlingen lijken moeite te hebben met een programma waarin een variabele wel gedeclareerd, maar niet gebruikt wordt. Bijvoorbeeld:
 
 ```python
 2. klas = '1c'
    print('Hallo', '1c')
 ```
 
-Dat mag wel, maar soms denken lln dat dat een foutmelding geeft.
+Dat mag wel, maar soms denken lln dat dat een foutmelding geeft. Dat is niet zo: het geeft geen foutmelding, het is alleen niet de beste manier om je code te schrijven.
 
 ### Delen van de les
 

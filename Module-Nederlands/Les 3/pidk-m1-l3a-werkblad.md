@@ -1,3 +1,5 @@
+## Les 3 werkblad a
+
 ### Variabelen
 
 Aan het einde van de les kun jij:
@@ -9,7 +11,7 @@ Aan het einde van de les kun jij:
 
 
 
-**Even opfrissen!**
+#### **Even opfrissen!**
 
 **Begin op een nieuwe pagina en zet erboven: Les 3a**
 
@@ -44,6 +46,8 @@ Schrijf de uitvoer in je schrift.
    #print('hebben', 'jullie', 'er', 'zin', 'in?')
 ```
 
+<div style="page-break-after: always;"></div>
+
 2) Wat is de fout?
 
 Al deze codes zijn fout. Wat is er mis? 
@@ -77,8 +81,11 @@ Schrijf in je schrift wat de fout is.
 
 ------
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+
+<div style="page-break-after: always;"></div>
+
  <div style="page-break-after: always;"></div>
-**Waardes zoeken**
+#### **Waardes zoeken**
 
 1) In Python kun je woorden zonder aanhalingstekens gebruiken. Dat zijn variabeles. Als Python die tegenkomt gaat hij omhoog zoeken in het programma naar de *definitie* van de variabele. Dat betekent waar de variabele wordt ingesteld met een is-teken: 
 
@@ -105,6 +112,8 @@ Voorbeeld:![image-20190206124246541](/Users/Felienne/Library/Application Support
    klas = '1c'
    print('Hallo' , klas, 'dit', 'is', les)
 ```
+
+<div style="page-break-after: always;"></div>
 
 2) Hieronder staan codes met een variabele erin. 
 Wat print Python uit als we deze codes uitvoeren?
@@ -142,7 +151,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
  <div style="page-break-after: always;"></div>
 
-**Naam niet gedefinieerd**
+#### **Naam niet gedefinieerd**
 
 Is de code goed of fout? Kijk goed of de variabele die gebruikt wordt wel gedefinieerd is. 
 
