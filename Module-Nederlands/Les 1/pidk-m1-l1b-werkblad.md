@@ -12,7 +12,7 @@ Deze les wordt afgetekend als:
 
 - Gebruik als emailadres je school-email:
 
-  - 123456@student.lmc-vo.nl <--- maar dan met jouw leerlingnummer natuurlijk
+  - 123456@leerlingmail.nl <--- maar dan met jouw leerlingnummer en leerlingmail natuurlijk
 
 - Gebruik als wachtwoord je wachtwoord van school
 
@@ -20,10 +20,7 @@ Deze les wordt afgetekend als:
 
 - Je in onze classroom zit:
 
-  - Ga naar: bit.ly/lk-klas1c
-
-  
-
+  - Ga naar de link die de leraar je geeft.
 
 
 ------
@@ -38,7 +35,7 @@ Deze les wordt afgetekend als:
 
 Deze les wordt afgetekend als:
 
-- Je naam kan uitprinten in Python
+- Je je naam kan uitprinten in Python
 - Je de code ook in je schrift hebt geschreven
 
 
