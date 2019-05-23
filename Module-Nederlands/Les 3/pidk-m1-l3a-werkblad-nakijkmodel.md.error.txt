@@ -1,1 +1,0 @@
-pandoc: /Users/lisa/Github/PidK/Module-Nederlands/Les 3/afbeelding-1-waardes-zoeken-pidk-m1-l3a-werkblad.png: openBinaryFile: does not exist (No such file or directory)

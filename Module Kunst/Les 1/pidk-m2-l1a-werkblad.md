@@ -158,9 +158,9 @@ pen.left(60)
 
 3) Nu andersom. Weet jij met welke code je deze figuren tekent? Schijf de codes in je schrift.
 
-1. ![image-20190318130624359](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318130624359.png)
-2. ![image-20190318125720956](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318125720956.png)
-3. ![image-20190318130244515](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318130244515.png)
+1. ![image-20190318130624359](../img/image-20190318130624359.png)
+2. ![image-20190318125720956](../img/image-20190318125720956.png)
+3. ![image-20190318130244515](../img/image-20190318130244515.png)
 
  <div style="page-break-after: always;"></div>
 
@@ -210,6 +210,6 @@ pen.forward(100)
 
 Schrijf nu weer de codes op die bij deze figuren horen.
 
-1. ![image-20190318130606702](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318130606702.png)
-2. ![image-20190318125810948](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318125810948.png)
-3. ![image-20190318130138855](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318130138855.png)
+1. ![image-20190318130606702](../img/image-20190318130606702.png)
+2. ![image-20190318125810948](../img/image-20190318125810948.png)
+3. ![image-20190318130138855](../img/image-20190318130138855.png)

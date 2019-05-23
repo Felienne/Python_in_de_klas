@@ -1,1 +1,0 @@
-TODO: Extra opgaven voor leerlingen die dingen nog moeilijk vinden.
