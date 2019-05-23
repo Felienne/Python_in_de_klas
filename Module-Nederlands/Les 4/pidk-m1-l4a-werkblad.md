@@ -1,3 +1,5 @@
+## Les 4 werkblad a
+
 ### Lijsten
 
 Aan het einde van de les kun jij:
@@ -76,7 +78,7 @@ Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 
 * lijst `namen` met daarin de woorden: Jan, Merel, Samir
 * lijst `vakken` met daarin de woorden: Frans, Aardrijkskunde, Coderen
-* lijst `Engelse woorden`. Verzin zelf 3 Engelse woorden om in je lijst op te slaan
+* lijst `engelse_woorden`. Verzin zelf 3 Engelse woorden om in je lijst op te slaan
 
 ---
 
@@ -146,15 +148,15 @@ Wat komt er uit deze codes?
 ```
 
 ```python
-6. vakken = ['Jan', 'Robin', 'Samir']
+6. vakken = ['Aardrijkskunde', 'Nederlands', 'Coderen']
    print('Ik', 'vind', vakken[2], 'een', 'leuk', 'vak')
 ```
 
 3) Nu andersom!
 
-Je krijg je de zin, en moet jij de code afmaken.
+Nu krijg je de zin, en moet jij de code afmaken.
 
-1. Er moet geprint worden: 'De deur is geel' Maak de code af in je schrift. TODO: deze was wel veel overschrijfwerk, kunnen we alleen de 2e zin van maken wel.
+1. Er moet geprint worden: 'De deur is geel' Maak de code af in je schrift. 
 ```python
    kleuren = ['blauw', 'geel', 'groen']            
    print('De', 'deur', 'is', kleuren[...])
@@ -164,33 +166,6 @@ Je krijg je de zin, en moet jij de code afmaken.
    snoepjes = ['chocolade', 'zuurtjes', 'drop']
    print('Ik', 'hou', 'van', snoepjes[...])
 ```
-
-3. Er moet geprint worden: 'Zullen we gaan voetballen morgen?'
-
-```python
-   hobbies = ['dansen', 'voetballen', 'zingen']            
-   print('Zullen', 'we', 'gaan', hobbies[...], 'morgen')
-```
-4. Er moet geprint worden: 'Mijn beste vriend heet Samir'
-
-```python
-   namen = ['Jan', 'Robin', 'Samir']
-   print('Mijn', 'beste', 'vriend', 'heet', namen[...])
-```
-5. Er moet geprint worden: 'De beste programmeertaal is Python'
-
-```python
-   talen = ['Python', 'JavaScript', 'HTML']
-   print('De', 'beste', 'programmeertaal', 'is', talen[...] )
-```
-6. Er moet geprint worden: 'Ik woon in de Takstraat'
-
-```python
-   straatnamen = ['Witte Hertstraat', 'Takstraat', 'Coolsingel']
-   print('Ik', 'woon', 'in', 'de', straatnamen[...])
-```
-
-------
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
@@ -270,7 +245,7 @@ Let goed op: er kunnen nu ook foutjes in andere dingen staan, niet alleen in de 
 ```
 
 ```python
-9. vakken = ['Jan', 'Robin', 'Samir']
+9. vakken = ['Aardrijkskunde', 'Nederlands', 'Coderen']
    print('Ik', 'vind', vakken[0], 'leuk')
 ```
 
