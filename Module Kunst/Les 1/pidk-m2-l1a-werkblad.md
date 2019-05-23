@@ -50,7 +50,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 1) Ga terug naar het vierkant dat je hebt getekend in je schrift. 
 Zet deze nummers erbij, op dezelfde plekken.
 
-![image-20190322135329083](/Users/Felienne/Library/Application Support/typora-user-images/image-20190322135329083.png)
+![image-20190404092756483](../img/image-20190404092756483.png)
 
 Nu gaan we Pythoncodes koppelen aan de stukjes van de tekening? Welke code hoort bij welk stukje. Bijv bij 1 de rechte lijn, die maak je met `pen.forward(100)`. Bij 2 draaien we om, dus daar hoort `pen.left(90)`. Maak jij de codes af?
 
@@ -69,7 +69,7 @@ Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde op in
 
 2) Ga terug naar de driehoek dat je hebt getekend in je schrift.  
 
-![image-20190322135525607](/Users/Felienne/Library/Application Support/typora-user-images/image-20190322135525607.png)
+![image-20190322135525607](../img/image-20190322135525607.png)
 
 1. Welke som reken je uit om een driehoek te maken? Schrijf de som in je schrift.
 
