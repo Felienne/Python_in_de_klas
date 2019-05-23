@@ -4,6 +4,7 @@ Todos:
 * uitvoer is geen goed woord
 * waarom geen woorden apart in inpit()
 * regels doorstrepen is beter, takken waren niet goed ingeoefend
+### Les 5 werkblad a
 
 
 
@@ -20,7 +21,7 @@ Aan het einde van de les kun jij:
 
 **Goed of fout?**
 
-Is de code goed of fout?
+1) Is de code goed of fout?
 
 * De code is goed -> schrijf wat de code print
 * De code is fout -> schrijf FOUT
@@ -62,8 +63,8 @@ Is de code goed of fout?
 ```
 
 ```python
-9. namen = ['Jan', 'Robin', 'Samir']
-   print('Ik', 'vind', namen[4], 'leuk')
+9. vakken = ['Aardrijkskunde', 'Nederlands', 'Coderen']
+   print('Ik', 'vind', vakken[4], 'leuk')
 ```
 
 ```python
@@ -88,10 +89,11 @@ Is de code goed of fout?
 14.dag = 'woensdag'
    print('Het', 'is', 'vandaag', 'woensdag')
 ```
+ <div style="page-break-after: always;"></div>
 
 2) Maak de code af
 
-Je krijg je een zin, en moet jij de code afmaken. Je hoeft alleen de lijst en de aanwijzer in je schrift te schrjiven. Voorbeeld:
+Je krijgt een zin, en jij moet de code afmaken. Je hoeft alleen de lijst en de aanwijzer in je schrift te schrijven. Voorbeeld:
 
 Er moet geprint worden: 'Ik vind geel mooi' Maak de code af in je schrift. 
 
@@ -99,11 +101,7 @@ Er moet geprint worden: 'Ik vind geel mooi' Maak de code af in je schrift.
    kleuren = ['blauw', 'geel', 'groen']            
    print('Ik', 'vind', kleuren[...], 'mooi')
 ```
-
-Dan schijf jij in je schrift: 
-
-kleuren[1]
-
+Dan schijf jij in je schrift: kleuren[1]
 Nu jij!
 
 1. Er moet geprint worden: 'De trui is groen' Maak de code af in je schrift. 
@@ -174,7 +172,6 @@ Voorbeeld:
 
 De invoer is: melk (kijk bij de >)
 De code print: gieten.
-
 Nu jij!
 
 ```python
@@ -199,80 +196,83 @@ De code print: …….
 De code print: …....
 
 ```python
-4. if input('repiel of zoogdier') == 'reptiel':
+3. if input('reptiel of zoogdier') == 'reptiel':
      print('legt', 'een', 'ei')
    else:
      print('geeft', 'melk')
-   >repiel, of, zoogdier?reptiel
+   >reptiel, of, zoogdier?reptiel
 ```
 
 De code print: …....
 
 ```python
-5. if input('repiel of zoogdier') == 'reptiel':
+4. if input('reptiel of zoogdier') == 'reptiel':
      print('legt', 'een', 'ei')
    else:
      print('geeft', 'melk')
-   >repiel, of, zoogdier?zepdiel
+   >reptiel of zoogdier?zepdiel
 ```
 
 De code print: …....
 
 ```python
-6. if input('repiel of zoogdier') == 'reptiel':
+5. if input('reptiel of zoogdier') == 'reptiel':
      print('legt', 'een', 'ei')
    else:
      print('geeft', 'melk')
-   >repiel, of, zoogdier?zoogdier
+   >reptiel of zoogdier?zoogdier
 ```
 
 De code print: …....
 
 ```python
-7. if input('Nederlands of Engels') == 'Engels':
-     print('Hallo', 'goedemorgen!')
-   else:
+6. if input('Nederlands of Engels') == 'Engels':
      print('Hello', 'good morning!')
+   else:
+     print('Hallo', 'goedemorgen!')
    >Nederlands of Engels?engelse
 ```
 
 De code print: …....
 
 ```python
-8. if input('Nederlands of Engels') == 'Engels':
-     print('Hallo', 'goedemorgen!')
-   else:
+7. if input('Nederlands of Engels') == 'Engels':
      print('Hello', 'good morning!')
+   else:
+     print('Hallo', 'goedemorgen!')
    >Nederlands of Engels?Engels
 ```
 
 De code print: …....
 
 ```python
-9. if input('Nederlands of Engels') == 'Engels':
-     print('Hallo', 'goedemorgen!')
-   else:
+8. if input('Nederlands of Engels') == 'Engels':
      print('Hello', 'good morning!')
+   else:
+     print('Hallo', 'goedemorgen!')
    >Nederlands of Engels?English
 ```
 
 De code print: …....
 
 ```python
-10.if input('Nederlands of Engels') == 'Engels':
-     print('Hallo', 'goedemorgen!')
-   else:
+9. if input('Nederlands of Engels') == 'Engels':
      print('Hello', 'good morning!')
+   else:
+     print('Hallo', 'goedemorgen!')
    >Nederlands of Engels?Nederlands
 ```
 
 De code print: …....
 
+ <div style="page-break-after: always;"></div>
+
+
 ```python
-11.if input('Nederlands of Engels') == 'Engels':
-     print('Hallo', 'goedemorgen!')
-   else:
+10. if input('Nederlands of Engels') == 'Engels':
      print('Hello', 'good morning!')
+   else:
+     print('Hallo', 'goedemorgen!')
    >Nederlands of Engels?Nl
 ```
 
@@ -317,9 +317,9 @@ We gaan steeds de goede dierengeluiden printen. Deze horen bij elkaar:
 
 ```python
 4. if input('hond of kat') == 'hond':
-     print(...)
+     print('waf')
    else:
-     print('miauw')
+     print(...)
 ```
 
 ```python
@@ -337,7 +337,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
 Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 
-
+ <div style="page-break-after: always;"></div>
 
 **Fouten bij if-else commando's**
 
@@ -394,86 +394,76 @@ Nu jij!
    >Frans of Engels?Engels   
 ```
 ```python
-4. if input('Frans of Engels') == 'Frans':
-   print('Bonjour!')
-   else:
-     print('Hello!')
-   >Frans of Engels?Engels          
-```
-```python
-5. if input('Frans', 'of', 'Engels') = 'Frans':
+4. if input('Frans', 'of', 'Engels') = 'Frans':
      print('Bonjour!')
    else:
      print('Hello!')
    >Frans of Engels?Engels
 ```
 ```python
-6. if input('Frans of Engels') == 'Frans':
+5. if input('Frans of Engels') == 'Frans':
      print('Bonjour!)
    else:
      print(Hello!')
    >Frans of Engels?Engels        
 ```
 ```python
-7. if inputinput('Frans of Engels') == 'Frans':
+6. if inputinput('Frans of Engels') == 'Frans':
      print('Bonjour!')
    else:
      print('Hello!')
    >Frans of Engels?Duits  
 ```
 ```python
-8. if input('Duits', 'of', 'Nederlands') == 'Duits':
+7. if input('Duits', 'of', 'Nederlands') == 'Duits':
    print('Gutenabend!')
    else:
    print('Goedeavond!')
    >Duits of Nederlands?Duits  
 ```
 ```python
-9. if input('Duits of Nederlands') == 'Duits':
+8. if input('Duits of Nederlands') == 'Duits':
      print('Gutenabend!')
    else
      print('Goedeavond!')
    >Duits of Nederlands?Frans  
 ```
 ```python
-10.if if input('Duits', 'of', 'Nederlands') == 'Duits':
+9. if if input('Duits', 'of', 'Nederlands') == 'Duits':
      print('Gutenabend!')
    else:
    print('Goedeavond!')
      >Duits of Nederlands?Nederlands  
 ```
 
-
+ <div style="page-break-after: always;"></div>
 
 2) Foutmeldingen lezen
 
 Je krijgt steeds een foutmelding te zien. Wat is er mis?
 
-
-
-   ```
-1.     if input('melk of suiker?') == 'suiker'
-                                             ^
-   SyntaxError: invalid syntax
-   ```
-
-   ```
-2.     print('gieten')
-           ^
-   IndentationError: expected an indented block
-   ```
-
-```
-3.     if input('melk of suiker?') = 'suiker':
-                                   ^
-SyntaxError: invalid syntax
+```python
+1.  if input('melk of suiker?') == 'suiker'                                       ^
+    
+    SyntaxError: invalid syntax
 ```
 
-   ```
-4.     if input('melk of suiker?) == 'suiker':
-                                            ^
-SyntaxError: invalid syntax
+```python
+2.  print('gieten')
+        ^
+    IndentationError: expected an indented block
+```
 
-   ```
+```python
+3.  if input('melk of suiker?') = 'suiker':
+                                ^
+    SyntaxError: invalid syntax
+```
+
+```python
+4.  if input('melk of suiker?) == 'suiker':
+                                        ^
+    SyntaxError: invalid syntax
+```
 
    
