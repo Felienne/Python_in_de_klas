@@ -1,4 +1,4 @@
-<img src="/Users/lisa/Python_in_de_klas/Module-Aardrijkskunde/Les 1/Logo cs-certificate.jpg"
+<img src="../../img/Logo cs-certificate.jpg"
 style="zoom:20%" align="right">
 
 ## Module Aardrijskunde Les 1 Werkblad a
@@ -13,7 +13,7 @@ Aan het einde van de les kun jij:
 **Instructie leerlingen**
 In deze lessen ga jij zelf data over aardbevingen op een wereldkaart afbeelden. Het einddoel van deze lessen is zoiets:
 
-![](/Users/lisa/Python_in_de_klas/Module-Aardrijkskunde/Les 1/wereldkaart.png)
+![](../../img/wereldkaart.png)
 
 De vierkantjes zijn aardbevingen, en grotere vierkanten zijn ergere aardbevingen (met een hogere magnitude). Maar jouw plaatje wordt vast mooier!
 Voor we gaan programmeren, gaan we de opdracht eerst met pen en papier uitvoeren. Je doet deze opdracht in groepjes van 3.  
@@ -24,7 +24,7 @@ Je hebt een wereldkaart gekregen. Daar ga je data op tekenen.
 
 Je hebt ook de data op papier gekregen:
 
-![](/Users/lisa/Python_in_de_klas/Module-Aardrijkskunde/Les 1/data.png)
+![](../../img/data.png)
 
 De kolommen van de data betekenen (in de volgorde dat je ze leest):
 
@@ -48,7 +48,7 @@ Teken jij de evenaar op de kaart?
 **Opdracht 2)** 
 Teken daarna, aan de rand van de kaart, 5 streepjes op jouw kaart, steeds op 50 mm van elkaar. Die geven dus -60, -30, 0 (de evenaar, daar heb je al een streep), 30 en 60 aan.
 
-![](/Users/lisa/Python_in_de_klas/Module-Aardrijkskunde/Les 1/coordinaten.png)
+![](../../img/coordinaten.png)
 
 **Opdracht 3)** 
 Je hebt nu 6 horizontale vlakken. In welk vlak ligt 19 graden?

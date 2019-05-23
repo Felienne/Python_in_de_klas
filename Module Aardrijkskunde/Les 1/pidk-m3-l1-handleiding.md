@@ -1,4 +1,4 @@
-<img src="Logo cs-certificate.jpg"
+<img src="../../img/Logo cs-certificate.jpg"
 style="zoom:20%" align="right">
 
 # Module Aardrijkskunde Les 1
