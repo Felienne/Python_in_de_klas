@@ -7,9 +7,9 @@
 ### Doelen van deze les
 
 Leerlingen leren:
-- meerdere meerdere regels kan laten zien
+- meerdere regels te laten zien
 - 'commentaar' te schrijven en herkennen
-- goede en foute print()-codes vinden
+- goede en foute print()-codes te vinden
 
 ### Achtergrond voor de leerkracht
 
