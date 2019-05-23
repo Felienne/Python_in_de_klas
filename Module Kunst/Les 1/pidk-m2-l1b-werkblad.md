@@ -47,7 +47,7 @@ Deze les wordt afgetekend als:
 
 Dit is een schilderij van een berg (met een beetje fantasie!)
 
-![image-20181207110047621](/Users/Felienne/Library/Application%20Support/typora-user-images/image-20181207110047621.png)
+![image-20181207110047621](../../img/image-20181207110047621.png)
 
 
 
@@ -65,7 +65,7 @@ Deze les wordt afgetekend als:
 
 
 
-![image-20190318132016472](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318132016472.png)
+![image-20190318132016472](../../img/image-20190318132016472.png)
 
 ###Opdracht 2b-6) Maak een diamant  (extra)
 
@@ -76,7 +76,7 @@ Deze les wordt afgetekend als:
 Opdracht. Probeer dit na te maken.
 
 
-![image-20190318132305903](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318132305903.png)
+![image-20190318132305903](../../img/image-20190318132305903.png)
 
 
 

@@ -6,7 +6,7 @@ Deze les wordt afgetekend als:
 - Je variabelen hebt gebruikt voor de hoek, het aantal draaiingen en de grootte.
 - Ze allebei blauw zijn
 
-![image-20190406144918466](/Users/Felienne/Library/Application Support/typora-user-images/image-20190406144918466.png)
+![image-20190406144918466](../../img/image-20190406144918466.png)
 
 Denk aan deze tips:
 
@@ -19,7 +19,7 @@ Deze les wordt afgetekend als:
 
 - Je het bergschilderij van de vorige lessen met kleuren maakt. Kies de kleuren zelf.
 
-![image-20190406145634717](/Users/Felienne/Library/Application Support/typora-user-images/image-20190406145634717.png)
+![image-20190406145634717](../../img/image-20190406145634717.png)
 
 ### Opdracht 5b-3) Maak twee spirografen
 
@@ -28,7 +28,7 @@ Deze les wordt afgetekend als:
 - Je twee spirografen onder elkaar hebt getekend, een grote en een kleine.
 - Je variabelen hebt gebruikt voor (minstens) de hoek, en de grootte.
 - Ze allebei een andere kleur hebben.
-  ![image-20190406150038398](/Users/Felienne/Library/Application Support/typora-user-images/image-20190406150038398.png)
+  ![image-20190406150038398](../../img/image-20190406150038398.png)
 
 Probeer de tekening zo goed mogelijk na te maken.
 
@@ -39,7 +39,7 @@ Deze les wordt afgetekend als:
 - Je twee spirografen onder elkaar hebt getekend, een grote en een kleine.
 - Je variabelen hebt gebruikt voor (mninstens) de hoek, en de grootte.
 - Ze allebei een andere kleur hebben.
-  ![image-20190406150007097](/Users/Felienne/Library/Application Support/typora-user-images/image-20190406150007097.png)
+  ![image-20190406150007097](../../img/image-20190406150007097.png)
 
 Probeer de tekening zo goed mogelijk na te maken.
 

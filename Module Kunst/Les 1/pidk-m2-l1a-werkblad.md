@@ -50,7 +50,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 1) Ga terug naar het vierkant dat je hebt getekend in je schrift. 
 Zet deze nummers erbij, op dezelfde plekken.
 
-![image-20190404092756483](../img/image-20190404092756483.png)
+![image-20190404092756483](../../img/image-20190404092756483.png)
 
 Nu gaan we Pythoncodes koppelen aan de stukjes van de tekening? Welke code hoort bij welk stukje. Bijv bij 1 de rechte lijn, die maak je met `pen.forward(100)`. Bij 2 draaien we om, dus daar hoort `pen.left(90)`. Maak jij de codes af?
 
@@ -69,7 +69,7 @@ Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde op in
 
 2) Ga terug naar de driehoek dat je hebt getekend in je schrift.  
 
-![image-20190322135525607](../img/image-20190322135525607.png)
+![image-20190322135525607](../../img/image-20190322135525607.png)
 
 1. Welke som reken je uit om een driehoek te maken? Schrijf de som in je schrift.
 
@@ -158,9 +158,9 @@ pen.left(60)
 
 3) Nu andersom. Weet jij met welke code je deze figuren tekent? Schijf de codes in je schrift.
 
-1. ![image-20190318130624359](../img/image-20190318130624359.png)
-2. ![image-20190318125720956](../img/image-20190318125720956.png)
-3. ![image-20190318130244515](../img/image-20190318130244515.png)
+1. ![image-20190318130624359](../../img/image-20190318130624359.png)
+2. ![image-20190318125720956](../../img/image-20190318125720956.png)
+3. ![image-20190318130244515](../../img/image-20190318130244515.png)
 
  <div style="page-break-after: always;"></div>
 
@@ -210,6 +210,6 @@ pen.forward(100)
 
 Schrijf nu weer de codes op die bij deze figuren horen.
 
-1. ![image-20190318130606702](../img/image-20190318130606702.png)
-2. ![image-20190318125810948](../img/image-20190318125810948.png)
-3. ![image-20190318130138855](../img/image-20190318130138855.png)
+1. ![image-20190318130606702](../../img/image-20190318130606702.png)
+2. ![image-20190318125810948](../../img/image-20190318125810948.png)
+3. ![image-20190318130138855](../../img/image-20190318130138855.png)

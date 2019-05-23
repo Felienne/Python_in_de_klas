@@ -265,9 +265,9 @@ for i in range(aantal_keer):
 
 3) Schrijf de code voor deze tekeningen. Gebruik RGB codes voor de kleuren.
 
-1. ![image-20190406141936243](/Users/Felienne/Library/Application Support/typora-user-images/image-20190406141936243.png)
-2. ![image-20190406142059944](/Users/Felienne/Library/Application Support/typora-user-images/image-20190406142059944.png)
-3. ![image-20190406142204920](/Users/Felienne/Library/Application Support/typora-user-images/image-20190406142204920.png)
+1. ![image-20190406141936243](../../img/image-20190406141936243.png)
+2. ![image-20190406142059944](../../img/image-20190406142059944.png)
+3. ![image-20190406142204920](../../img/image-20190406142204920.png)
 
    
 

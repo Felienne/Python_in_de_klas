@@ -36,7 +36,7 @@ Schrijf ook op wat je het minst leuk vond.
 
 Je kunt ook figuren tekenen met 1 kleur, en invullen met een andere kleur! 
 
-![image-20190507095522235](/Users/Felienne/Library/Application Support/typora-user-images/image-20190507095522235.png)
+![image-20190507095522235](../../img/image-20190507095522235.png)
 
 Dat doe je door twee kleuren in te voeren in `pen.color()`. Zo dus:
 
@@ -65,4 +65,4 @@ pen.end_fill()
 ```
 Dat maakt dit figuur:
 
-![image-20190507100430580](/Users/Felienne/Library/Application Support/typora-user-images/image-20190507100430580.png)
+![image-20190507100430580](../../img/image-20190507100430580.png)

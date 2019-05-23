@@ -2,7 +2,7 @@
 
 Maak dit figuur:
 
-![image-20190404092738503](/Users/Felienne/Library/Application Support/typora-user-images/image-20190404092738503.png)
+![image-20190404092738503](../../img/image-20190404092738503.png)
 
 Denk aan deze tips:
 
@@ -15,19 +15,19 @@ Denk aan deze tips:
 
 ### Maak twee driehoeken op elkaar  
 
-![image-20190404092756483](/Users/Felienne/Library/Application Support/typora-user-images/image-20190404092756483.png)
+![image-20190404092756483](../../img/image-20190404092756483.png)
 
 ### Maak twee vierkanten, eentje kleiner  
 
-![image-20190404092806969](/Users/Felienne/Library/Application Support/typora-user-images/image-20190404092806969.png)
+![image-20190404092806969](../../img/image-20190404092806969.png)
 
 ### Maak twee driehoeken op elkaar
 
-![image-20190404092914547](/Users/Felienne/Library/Application Support/typora-user-images/image-20190404092914547.png)
+![image-20190404092914547](../../img/image-20190404092914547.png)
 
 ### Maak twee driehoeken op elkaar, maar eentje ondersteboven 
 
-![image-20190404092820971](/Users/Felienne/Library/Application Support/typora-user-images/image-20190404092820971.png)
+![image-20190404092820971](../../img/image-20190404092820971.png)
 
 ------
 

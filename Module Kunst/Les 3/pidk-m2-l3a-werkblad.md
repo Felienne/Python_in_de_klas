@@ -46,10 +46,10 @@ for i in range(4):
 2) Welke code hoort bij deze tekeningen? 
 
 
-1. ![image-20190318130624359](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318130624359.png)
-2. ![image-20190325083528686](/Users/Felienne/Library/Application Support/typora-user-images/image-20190325083528686.png)
-3. ![image-20190322150946880](/Users/Felienne/Library/Application Support/typora-user-images/image-20190322150946880.png)
-4. ![image-20190322151013930](/Users/Felienne/Library/Application Support/typora-user-images/image-20190322151013930.png)
+1. ![image-20190318130624359](../../img/image-20190318130624359.png)
+2. ![image-20190325083528686](../../img/image-20190325083528686.png)
+3. ![image-20190322150946880](../../img/image-20190322150946880.png)
+4. ![image-20190322151013930](../../img/image-20190322151013930.png)
 
 ------
 
@@ -149,7 +149,7 @@ for i in range(3):
 
 Welke codes horen bij deze tekeningen? Gebruik natuurlijk wel een lus (of meerdere lussen).
 
-1. ![image-20190329210151106](/Users/Felienne/Library/Application Support/typora-user-images/image-20190329210151106.png)
-2. ![image-20190318125810948](/Users/Felienne/Library/Application Support/typora-user-images/image-20190318125810948.png)
-3. ![image-20190322151224232](/Users/Felienne/Library/Application Support/typora-user-images/image-20190322151224232.png)
-4. ![image-20190329210728482](/Users/Felienne/Library/Application Support/typora-user-images/image-20190329210728482.png)
+1. ![image-20190329210151106](../../img/image-20190329210151106.png)
+2. ![image-20190318125810948](../../img/image-20190318125810948.png)
+3. ![image-20190322151224232](../../img/image-20190322151224232.png)
+4. ![image-20190329210728482](../../img/image-20190329210728482.png)

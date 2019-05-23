@@ -68,7 +68,7 @@ Deze les wordt afgetekend als:
 
 In de vorige opdracht heb je een vierkant getekend met een for-lus. Nu willen we een soort sterfiguur. Weet je nog van vorige week wat voor hoek je dan moet gebruiken? En hoevaak dnek je dat je rond moet gaan? Probeer dit figuur zo precies mogelijk na te maken
 
-![image-20190322130521606](/Users/Felienne/Library/Application Support/typora-user-images/image-20190322130521606.png)
+![image-20190322130521606](../../img/image-20190322130521606.png)
 
 **Opdracht.** Teken nu het figuur met een for-lus
 
@@ -96,7 +96,7 @@ Deze les wordt afgetekend als:
 
 **Opdracht.** Probeer dit huisje na te maken.
 
-![image-20190322131013102](/Users/Felienne/Library/Application Support/typora-user-images/image-20190322131013102.png)
+![image-20190322131013102](../../img/image-20190322131013102.png)
 
 ### Opdracht 2b-6) Maak een diamant met twee forlussen (extra)
 
@@ -107,7 +107,7 @@ Deze les wordt afgetekend als:
 
 Opdracht. Probeer dit na te maken.
 
-![image-20190322131023789](/Users/Felienne/Library/Application Support/typora-user-images/image-20190322131023789.png)
+![image-20190322131023789](../../img/image-20190322131023789.png)
 
 ### Opdracht 2b-7) Maak iets leuks (extra)
 

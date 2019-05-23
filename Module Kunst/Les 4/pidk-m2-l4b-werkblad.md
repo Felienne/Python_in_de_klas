@@ -5,7 +5,7 @@ Deze les wordt afgetekend als:
 - Je twee vierkanten naast elkaar hebt getekend
 - Je een variabele gebruikt voor de **hoek**
 
-![image-20190403203110569](/Users/Felienne/Library/Application Support/typora-user-images/image-20190403203110569.png)
+![image-20190403203110569](../../img/image-20190403203110569.png)
 
 Denk aan deze tips:
 
@@ -21,7 +21,7 @@ Deze les wordt afgetekend als:
 - Je een variabele gebruikt voor de **hoek**
 - Je een variabele gebruikt voor het **aantal hoeken**
 
-![image-20190403203106093](/Users/Felienne/Library/Application Support/typora-user-images/image-20190403203106093.png)
+![image-20190403203106093](../../img/image-20190403203106093.png)
  <div style="page-break-after: always;"></div>
 ### Opdracht 4b-3) Maak twee spirografen met 2 variabelen
 
@@ -31,7 +31,7 @@ Deze les wordt afgetekend als:
 - Je een variabele gebruikt voor de **hoek**
 - Je een variabele gebruikt voor het **aantal hoeken**
 
-![image-20190403203016092](/Users/Felienne/Library/Application Support/typora-user-images/image-20190403203016092.png)
+![image-20190403203016092](../../img/image-20190403203016092.png)
 
 ### Opdracht 4b-4) Maak twee driehoeken op elkaar met 2 variabelen
 
@@ -41,7 +41,7 @@ Deze les wordt afgetekend als:
 - Je een variabele gebruikt voor de **hoek**
 - Je een variabele gebruikt voor het **aantal hoeken**
 
-![image-20190329212013611](/Users/Felienne/Library/Application Support/typora-user-images/image-20190329212013611.png)
+![image-20190329212013611](../../img/image-20190329212013611.png)
  <div style="page-break-after: always;"></div>
 ### Opdracht 4b-5) Maak twee driehoeken op elkaar met 3 variabelen
 
@@ -66,7 +66,7 @@ Deze les wordt afgetekend als:
 
 Tip: gebruik de variabele grootte nu twee keer.
 
-![image-20190329212412678](/Users/Felienne/Library/Application Support/typora-user-images/image-20190329212412678.png)
+![image-20190329212412678](../../img/image-20190329212412678.png)
  <div style="page-break-after: always;"></div>
 ### Opdracht 4b-7) Maak ieder figuur!
 

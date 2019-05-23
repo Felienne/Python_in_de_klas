@@ -4,7 +4,7 @@ Deze les wordt afgetekend als:
 
 - Je twee spirograaffiguren naast elkaar hebt getekend
 
-  ![image-20190329211324881](/Users/Felienne/Library/Application Support/typora-user-images/image-20190329211324881.png)
+  ![image-20190329211324881](../../img/image-20190329211324881.png)
 
 Denk aan deze tips:
 
@@ -21,7 +21,7 @@ Deze les wordt afgetekend als:
 
 - Je twee driehoeken onder elkaar hebt getekend
 
-![image-20190329212013611](/Users/Felienne/Library/Application Support/typora-user-images/image-20190329212013611.png)
+![image-20190329212013611](../../img/image-20190329212013611.png)
 
 ### Opdracht 3b-3) Maak twee vierkanten, eentje kleiner  
 
@@ -30,7 +30,7 @@ Deze les wordt afgetekend als:
 - Je twee vierkanten naast elkaar hebt getekend
 - De tweede half zo groot is als de eerste
 
-![image-20190329212412678](/Users/Felienne/Library/Application Support/typora-user-images/image-20190329212412678.png)
+![image-20190329212412678](../../img/image-20190329212412678.png)
 
 ### Opdracht 3b-4) Maak twee driehoeken op elkaar, eentje ondersteboven 
 
@@ -42,7 +42,7 @@ Deze les wordt afgetekend als:
 
   
 
-![image-20190329212129413](/Users/Felienne/Library/Application Support/typora-user-images/image-20190329212129413.png)
+![image-20190329212129413](../../img/image-20190329212129413.png)
 
 ------
 
