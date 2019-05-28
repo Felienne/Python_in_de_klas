@@ -1,3 +1,5 @@
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right">
+
 ### Opdracht 3b-1) Maak twee spirografen
 
 Deze les wordt afgetekend als:
