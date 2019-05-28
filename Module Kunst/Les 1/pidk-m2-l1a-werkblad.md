@@ -1,3 +1,7 @@
+<img src="../../img/Logo cs-certificate.jpg"style="zoom:20%" align="right">
+
+## Les 1 werkblad a
+
 ### Figuren tekenen
 
 Aan het einde van de les kun jij:
@@ -91,7 +95,7 @@ Zet jij nu deze opdrachten bij de juiste plekken in de tekening? Je moet allebei
 5. ...
 6. ...
 
-
+ <div style="page-break-after: always;"></div>
 
 3) Nog wat sommen met hoeken
 
@@ -126,7 +130,7 @@ Doe dit een paar keer, minstens 10!
 
 Let op! Het zijn niet altijd complete figuren!
 
-Tip: Als je het niet weet, teken dan precies na met je geodriehoek.
+Tip: Als je het niet weet, teken het dan precies na met je geodriehoek.
 
 ```python
 1.
@@ -155,8 +159,10 @@ pen.forward(100)
 pen.left(60)
 ```
 
+ <div style="page-break-after: always;"></div>
 
 3) Nu andersom. Weet jij met welke code je deze figuren tekent? Schijf de codes in je schrift.
+Tip: reken het na met je geodriehoek. 
 
 1. ![image-20190318130624359](../../img/image-20190318130624359.png)
 2. ![image-20190318125720956](../../img/image-20190318125720956.png)
