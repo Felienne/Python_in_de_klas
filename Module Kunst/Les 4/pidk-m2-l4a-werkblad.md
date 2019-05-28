@@ -1,3 +1,7 @@
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right">
+
+## Les 4 werkblad a
+
 ### Variabelen & Lussen
 
 1) Wat tekenen deze codes? 
@@ -141,6 +145,9 @@ for i in range(klas):
   print('Hallo', klas)
 ```
 
+<div style="page-break-after:
+always;"></div>
+
 3) Wat tekenen deze codes?
 
 Let op: Er zit nu ook weer `pen.penup()` en`pen.pendown()` in de code.
@@ -191,6 +198,9 @@ for i in range(3):
   pen.forward(grootte)
   pen.left(120)
 ```
+<div style="page-break-after:
+always;"></div>
+
 ```python
 4.
 grootte = 100
