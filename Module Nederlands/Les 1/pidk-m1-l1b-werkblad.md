@@ -1,4 +1,6 @@
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
 
+## Les 1 werkblad b
 
 ### Opdracht 1b-1) Maak een repl.it account
 

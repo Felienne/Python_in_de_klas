@@ -1,4 +1,6 @@
-## Les 2: werkblad a
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+
+## Les 2 werkblad a
 
 ### Printen
 

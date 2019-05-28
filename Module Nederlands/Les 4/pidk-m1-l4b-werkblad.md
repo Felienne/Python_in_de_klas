@@ -1,3 +1,7 @@
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+
+## Les 4 werkblad b
+
 ### Opdracht 4b-1) Maak drie verhalen 
 
 Deze les wordt afgetekend als:

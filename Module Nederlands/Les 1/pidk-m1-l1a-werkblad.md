@@ -1,4 +1,7 @@
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+
 ## Les 1 Werkblad a 
+
 ### Printen
 
 Aan het einde van de les kun jij:
