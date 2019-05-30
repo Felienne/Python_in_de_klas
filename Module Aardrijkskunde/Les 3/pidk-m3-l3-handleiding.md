@@ -1,6 +1,6 @@
-<img src="/Users/lisa/Python_in_de_klas/Module-Aardrijkskunde/Les 1/Logo cs-certificate.jpg"
-style="zoom:20%" align="right">
-# Module Aardrijkskunde Les 3
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right">
+
+### Module Aardrijkskunde Les 3
 
 ### Slides voor deze les
 
