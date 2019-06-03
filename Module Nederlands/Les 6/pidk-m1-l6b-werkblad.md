@@ -1,3 +1,7 @@
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+
+## Les 6 werkblad b
+
 ### Opdracht 6b-1) Maak je verhaal!
 
 Je hebt de afgelopen weken een hoop geleerd. 
