@@ -1,3 +1,7 @@
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right">
+
+## Les 4 werkblad b
+
 ### Opdracht 4b-1) Maak twee vierkanten met 1 variabele
 
 Deze les wordt afgetekend als:
@@ -9,7 +13,7 @@ Deze les wordt afgetekend als:
 
 Denk aan deze tips:
 
-- Maak de opdracht eerst zonder variabele. Kijk dan waar je het getal 90 ziet. Dat moet worden vervangen door de variabele hoek.
+- Maak de opdracht eert zonder variabele. Kijk dan waar je het getal 90 ziet. Dat moet worden vervangen door de variabele hoek.
 - Vergeet ook de dubbele punt :  aan het einde van de `for` niet.
 - En begin met twee spaties onder de `for`!
 
