@@ -1,3 +1,7 @@
+<img src="../../img/Logo cs-certificate.jpg"style="zoom:20%" align="right">
+
+## Les 1 werkblad b
+
 ### Opdracht 2b-1) Teken een vierkant
 
 Deze les wordt afgetekend als:

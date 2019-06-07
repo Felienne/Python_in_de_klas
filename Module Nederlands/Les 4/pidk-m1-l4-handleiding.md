@@ -1,4 +1,6 @@
-# Les 4
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
+
+## Handleiding Les 4
 
 ### Slides voor deze les
 

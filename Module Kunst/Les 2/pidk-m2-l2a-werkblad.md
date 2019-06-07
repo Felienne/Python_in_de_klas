@@ -1,10 +1,16 @@
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right">
+
+## Module Kunst les 2 werkblad a
+
 ### Herhalen met Turtle
 
 **Even opfrissen**
 
 1) Maak een vierkant
 
-Vorige week deden we deze opdracht maar het was niet helemaal duidelijk! Dat proberen we nog een keer. Teken dit figuur in je schrift.
+Vorige week deden we deze opdracht ook, dat was best een lastige opdracht!
+
+We gaan hem nog een keer oefenen. Teken dit figuur in je schrift.
 
 ![image-20190322135329083](../../img/image-20190322135329083.png)
 
@@ -46,6 +52,8 @@ Zet jij nu deze opdrachten bij de juiste plekken in de tekening? Je moet allebei
 4. ...
 5. ...
 6. ...
+
+<div style="page-break-after: always;"></div>
 
 3) Nog wat sommen met hoeken
 

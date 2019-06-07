@@ -1,3 +1,7 @@
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right">
+
+## Module Kunst les 3 werkblad a 
+
 ### Meerdere figuren
 
 **Even opfrissen**
@@ -42,6 +46,8 @@ for i in range(4):
   pen.left(90)
 ```
 
+<div style="page-break-after:
+always;"></div>
 
 2) Welke code hoort bij deze tekeningen? 
 
@@ -99,6 +105,9 @@ for i in range(4):
   pen.forward(100)
   pen.left(90)
 ```
+
+<div style="page-break-after:
+always;"></div>
 
 ```python
 4.

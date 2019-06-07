@@ -1,4 +1,6 @@
+<img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right" />
 
+## Les 2 werkblad b
 
 ### Opdracht 2b-1) Log in en maak een nieuw programma
 
