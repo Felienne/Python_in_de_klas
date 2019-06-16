@@ -22,7 +22,7 @@ Deze opdracht wordt afgetekend als:
 
 - Je het datatype van de magnitude uitprint
 
-  **Opdracht**
+**Opdracht**
 
 De target_url staat voor je klaar in de template van de opdracht. Zorg dat python de data uit dit bestand gaat inlezen en print alleen de magnitude en het datatype van de magnitude uit.
 

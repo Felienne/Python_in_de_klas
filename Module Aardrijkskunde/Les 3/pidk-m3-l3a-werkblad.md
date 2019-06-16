@@ -77,6 +77,9 @@ print(depth)
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel 
 
+
+<div style="page-break-after: always;"></div>
+
 ------
 
 **Van een String naar een Float**
