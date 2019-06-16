@@ -127,14 +127,14 @@ Als je deze opdrachten juist hebt ingevoerd weet je hoe je van een String een In
 5) Voor de zekerheid kun je als programmeur altijd even checken wat voor een type waarde jouw variabele nu bevat. 
 
 ```python
-print('Het type van latitude is') 
+print('Het type van magnitude is') 
 print(....(magnitude)) #vul de juiste functienaam in op de puntjes
 ```
 
 Als je dit goed doet komt op de computer de volgende tekst in beeld:
 
 ```
-Het type van latitude is
+Het type van magnitude is
 <type 'float'>
 ```
 
@@ -163,8 +163,8 @@ Wat gebeurt er als we onderstaand stukje code willen uitvoeren?
 
 ```python
 magnitude = '6'
-magnitude_plus_2 = magnitude + 5 
-print(magnitude_plus_2)
+magnitude_plus_5 = magnitude + 5 
+print(magnitude_plus_5)
 ```
 
 8) 
@@ -173,8 +173,8 @@ Wat gebeurt er als we onderstaand stukje code willen uitvoeren?
 
 ```python
 magnitude = 6
-magnitude_plus_2 = magnitude + 5 
-print(magnitude_plus_2)
+magnitude_plus_5 = magnitude + 5 
+print(magnitude_plus_5)
 ```
 
 9) 
@@ -183,8 +183,8 @@ Wat gebeurt er als we onderstaand stukje code willen uitvoeren?
 
 ```python
 magnitude = 6
-magnitude_plus_2 = magnitude + '5' 
-print(magnitude_plus_2)
+magnitude_plus_5 = magnitude + '5' 
+print(magnitude_plus_5)
 ```
 
 10) 
@@ -193,8 +193,8 @@ Wat gebeurt er als we onderstaand stukje code willen uitvoeren?
 
 ```python
 magnitude = '6'
-magnitude_plus_2 = float(magnitude) + 5 
-print(magnitude_plus_2)
+magnitude_plus_5 = float(magnitude) + 5 
+print(magnitude_plus_5)
 ```
 
 11) 
@@ -203,8 +203,8 @@ Wat gebeurt er als we onderstaand stukje code willen uitvoeren? *Let goed op bij
 
 ```python
 magnitude = '6.5'
-magnitude_plus_2 = int(magnitude) + 5 
-print(magnitude_plus_2)
+magnitude_plus_5 = int(magnitude) + 5 
+print(magnitude_plus_5)
 ```
 
 **Datatypes <u>correct</u> inlezen**
@@ -220,34 +220,34 @@ style="zoom:50%">
 
 <u>Opdracht</u>
 
-1) Maak de code hieronder af zodat de data van de tweede regel in.  opgehakte stukjes in een lijst komt te staan. Dat is de aardbeving die op 1/4/65 plaatsvond. Dit hebben we al een paar keer geoefend.
+1) Maak de code hieronder af zodat de data van de tweede regel in  opgehakte stukjes in een lijst komt te staan. Dat is de aardbeving die op 1/4/65 plaatsvond. Dit hebben we al een paar keer geoefend.
 
 ```python
 target_url = 'aardbevingen_data.csv' # Dit is 'zogenaamd' de code die aangeeft waar dit bestand terug te vinden is.
 
 data = .........(target_url)
 
-regel_1 = data[...]
+regel_2 = data[...]
 
-lijst_van_opgehakte_regel_1 = regel_1.split(... ... ...) #vul de missende tekens in op de stippellijnen.
+lijst_van_opgehakte_regel_2 = regel_1.split(... ... ...) #vul de missende tekens in op de stippellijnen.
 ```
 
-Lees nu voor elk van de kolommen de data van de tweede regel in. Dat is de aardbeving die op 1/4/65 plaatsvond. Gebruik hiervoor de het resultaat wat in het stukje hierboven in regel_1 staat. Overal waar puntjes staan mist nog code die jij moet invullen. Neem alles over in je schrift.
+Lees nu voor elk van de kolommen de data van de tweede regel in. Gebruik hiervoor de het resultaat wat in het stukje hierboven in regel_2 staat. Overal waar puntjes staan mist nog code die jij moet invullen. Neem alles over in je schrift.
 
 ```python
-1. date = lijst_van_opgehakte_regel_1[...] 
+1. date = lijst_van_opgehakte_regel_2[...] 
 
-2. time = lijst_van_opgehakte_regel_1[...]
+2. time = lijst_van_opgehakte_regel_2[...]
 
-3. latitude = ....(lijst_van_opgehakte_regel_1[...])
+3. latitude = ....(lijst_van_opgehakte_regel_2[...])
 
 4. longtitude = ....(.........................[3])
 
 5. type = ........................[4]
 
-6. depth = ....(lijst_van_opgehakte_regel_1[...])
+6. depth = ....(lijst_van_opgehakte_regel_2[...])
 
-7. magnitude = ....(lijst_van_opgehakte_regel_1[...])
+7. magnitude = ....(lijst_van_opgehakte_regel_2[...])
 ```
 
 ------
