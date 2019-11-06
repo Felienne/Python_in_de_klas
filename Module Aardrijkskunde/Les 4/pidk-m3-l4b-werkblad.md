@@ -1,66 +1,93 @@
 <img src="../../img/Logo cs-certificate.jpg" style="zoom:20%" align="right">
 
-### Module Aardrijskunde Les 4 Werkblad b
+### Module Aardrijkskunde Les 4 Werkblad b
 
+### Opdracht 4b-1) Kleur aanpassen
 
-
-### Opdracht 4b-1) Maak een trinket.io account
-
-Deze les wordt afgetekend als:
-
-- Je een account hebt gemaakt op trinktet.io
-- Gebruik als username je leerlingnummer
-  - 123456 <--- maar dan met jouw leerlingnummer natuurlijk
-- Gebruik als emailadres je school-email:
-  - 123456@leerlingmail.nl <--- maar dan met jouw leerlingnummer en leerlingmail natuurlijk
-- Gebruik als wachtwoord je wachtwoord van school
-  - Pass1234 <--- maar dan jouw wachtwoord!
-
-------
-
-
-
-### Opdracht 4b-2) Aardbevingen plotten
-
-Tijd om aardbevingen te gaan plotten op onze wereldkaart! 
-
-Voor deze opdrachten gebruiken we een 'template'. In deze template staat wat code voor je klaar zodat je sneller aan de slag kunt met de opdrachten. 
-Deze template kun je 'remixen', dat is een soort kopieren.
-De opdracht staat klaar op: https://trinket.io/python/41aa77c97f 
-
-Remix de opdracht en ga ermee aan de slag.
+We lezen nu wel de diepte van een aanbeving in, maar we doen we nog niks mee! Dat ga jij nu doen.
 
 Deze opdracht wordt afgetekend als:
 
-- Het je gelukt is minstens 5 aardbeving  van de dataset hebt geplot op de wereldkaart. Of gewoon allemaal, natuurlijk! 
-- Je hiervoor ook een for-lus hebt gebruikt
-- Hoe je plot mag je zelf bepalen. Een stip zetten, of een tekeningetje maken rondom de coördinaten? Wees creatief! 
-- Je commentaar hebt gebruikt bij moeilijke stukjes code.
+* Jij in je schrift hebt opgeschreven op welke regel diepte wordt ingelezen.
+* Jij in je schrift hebt opgeschreven op welke regel de kleur van de punten wordt ingesteld.
+* Je hebt gezorgd dat de kleur afhangt van de diepte. Je mag zelf kiezen hoe precies.
 
 **Opdracht.** 
 
-Kijk terug bij je opdrachten in je schrift. We hebben flink geoefend met alle voorbereinde werkzaamheden om onze aardbevingen te kunnen plotten op de wereldkaart. Als je iets niet meer weet, kun je altijd even terugkijken. 
+Zorg dat de stipjes anders gekleurd zijn als de aardbeving op een andere diepte is.
 
-------
+### Opdracht 4b-2) Maak een vierkant
 
+Alleen stipjes is een beetje saai. We willen zelf meer controle hebben over de visualisatie.
 
+Deze opdracht wordt afgetekend als:
 
-### Opdracht 4b-3) Extra
+- Je hebt gezorgd dat er steeds een vierkant getekend wordt ipv een stipje.
+- De grootte van het vierkant moet nog steeds `magnitude` zijn.
 
-Als je snel klaar bent is het leuk om wat van onze opgedane programmeerkennis toe te passen in het plotten van de aardbevingen.
-Wat dacht je ervan dat elke magnitudewaarde zijn eigen kleur krijgt? Dan kunnen we heel duidelijk zien op de wereldkaart welke aardbeving welke magnitude heeft. Of kun jij  nog een andere manier verzinnen om dit duidelijker in beeld te krijgen? Hint: dit bereik je door if-statements te gebruiken in je for-lus. 
+**Opdracht.** 
 
-------
+Zorg dat er steeds een vierkantje getekend wordt ter grootte van de magnitude van de aardbeving.
 
+### Opdracht 4b-3) Maak een rondje
 
+Nu maken we rondjes.
 
-### Opdracht 4b-4) Extra extra! 
+Deze opdracht wordt afgetekend als:
 
-Dit is voor de supersnelle leerlingen! 
+- Je hebt gezorgd dat er steeds een cirkel getekend wordt ipv een stipje of vierkant.
+- De grootte van het figuur moet nog steeds `magnitude` zijn.
 
-Wat zou je nog meer op de wereldkaart kunnen plotten? Ga op zoek naar een dataset en maak een kopie van je opdracht, zodat je originele code bewaard blijft. Pas nu je code aan zodat het past bij deze dataset!
+**Opdracht.** 
 
-------
+Zorg dat er steeds een vierkantje getekend wordt ter grootte van de magnitude van de aardbeving.
 
+### Opdracht 4b-4) Maak een ander figuur
 
+Nu maken we een ander figuur, je mag het zelf kiezen. Wil jij een vijfhoek of een spirograaf op de plek van iedere aardbeving. Kies zelf.
 
+Deze opdracht wordt afgetekend als:
+
+- Je hebt gezorgd dat er steeds een figuur naar keuze getekend wordt.
+- De grootte van het figuur moet nog steeds `magnitude` zijn.
+
+**Opdracht.** 
+
+Zorg dat er steeds een figuur naar keuze getekend wordt ter grootte van de magnitude van de aardbeving.
+
+### Opdracht 4b-5) Kleine en grote aardbevingen
+
+Deze opdracht wordt afgetekend als:
+
+- Er verschillende figuren worden gebruikt voor aardbevingen boven en onder de magnitude 7.
+
+**Opdracht.** 
+
+Nu gaan we het wat spannender maken en ook de if gebruiken in de lus. We willen de aardbevingen opdelen in erge (meer dan 7 magnitude) en minder erge (kleiner dan 7)
+
+Voor de aardbvingen onder de 7 teken je een stip, voor die erboven teken je een vierkant.
+
+### Opdracht 4b-6) Aardbevingen en kernontploffingen
+
+Deze opdracht wordt afgetekend als:
+
+- Er verschillende figuren worden gebruikt voor aardbevingen en kernontploffingen
+
+In de dataset zetten naast aardbevingen ('Earthquake') ook kernontploffingen ('Nuclear Explosion'). Kun je zorgen dat er bij de kernontploffingen ook een ander figuur getekend wordt? Je mag zelf het figuur kiezen, bijv. een soort paddenstoel, omdat een kernontploffingen zo'n soort wolk veroorzaakt.
+
+**Opdracht.** 
+
+Lees de soort van de data in in een nieuwe variabele. Noem die variabele `soort`. 
+Gebruik die variabele dan in een if om te bepalen wat er getekend moet worden.
+
+### Opdracht 4b-7) Neem de datum en tijd ook mee (extra)
+
+Deze opdracht wordt afgetekend als:
+
+- Aardbevingen anders van vorm of kleur worden afhankelijk van het jaar waarin ze hebben plaatsgevonden
+
+In de dataset zit ook nog de datum en de tijd van de aardbeving. Die kun je ook nog gebruiken in de visualisatie. 
+
+**Opdracht.** 
+
+Lees de datum en de tijd in, in twee nieuwe variabelen: `datum` en `tijd`. Welke datatypes moet je daarvoor gebruiken? Bedenk nu zelf wat je met deze waardes kan doen in je tekening.

@@ -57,7 +57,7 @@ for i in range(aantal_hoeken):
   pen.left(hoek)
 ```
 
-7. Leg in woorden uit wat de code van opdracht 6 doet.
+7. Leg nu in woorden uit wat de code van code 6 (hier direct boven) doet.
 ```python
 8.
 namen = 3

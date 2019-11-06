@@ -60,7 +60,6 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 
  <div style="page-break-after: always;"></div>
-
 **Lijsten maken**
 
 1) Hieronder staan een aantal incomplete opdrachten om lijsten te vullen. Schijf ze over in je schrift en vul de juiste tekens in op de stippeltjes.
@@ -89,7 +88,6 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 
  <div style="page-break-after: always;"></div>
-
 **Aanwijzen in een lijst**
 
 1) Hier staan steeds lijsten in code, en een aanwijzer. 
@@ -174,7 +172,6 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 
  <div style="page-break-after: always;"></div>
-
 **Foutjes bij aanwijzen**
 
 1) Fout of niet? Lees de code en bedenk of er een fout komt, of niet. 
@@ -221,7 +218,7 @@ Let goed op: er kunnen nu ook foutjes in andere dingen staan, niet alleen in de 
 ```
 ```python
 3. talen = ['Python', 'JavaScript', 'HTML']
-   print('De', 'beste', 'programmeertaal', 'is', taal[1]
+   print('De', 'beste', 'programmeertaal', 'is', taal[1])
 ```
 ```python
 4. snoepjes = ['chocolade', 'zuurtjes', 'drop']

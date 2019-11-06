@@ -27,8 +27,16 @@ Je kunt extra punten verdienen door:
 
 We willen graag weten wat jij van de lessen tot nu toe vond.
 
-Schrijf in je schrift de **drie dingen** die je het leuk vond.
+Schrijf in je schrift de **drie dingen** die je het leukst vond.
 Schrijf ook op wat je het minst leuk vond.
+
+
+
+
+
+
+
+
 
 
 

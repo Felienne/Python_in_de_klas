@@ -16,14 +16,14 @@ Vorige week hebben we geleerd hoe  datatypes kunnen omzetten zodat de tekst als 
 
 Vul de juiste functienaam in op de puntjes. Neem de stukjes code over in je schrift. De comments hoef je niet over te schrijven.
 
-1) Hoe heet de functie waarmee we een ingelezen stuk tekst kunnen omzetten naar een Integer? 
+1) Hoe heet de functie waarmee we een ingelezen stuk tekst kunnen omzetten naar een heel getal? 
 
 ```python
 magnitude = '5' #magnitude is nu een string van het karakter 5
 magnitude_als_integer = ...(magnitude) #vul de juiste functienaam in op de puntjes
 ```
 
-2) Hoe heet de functie waarmee we een ingelezen stuk tekst kunnen omzetten naar een Float? 
+2) Hoe heet de functie waarmee we een ingelezen stuk tekst kunnen omzetten naar een kommagetal? 
 
 ```python
 magnitude = '6.5' #magnitude is nu een string van de karakters 6.5
@@ -96,23 +96,17 @@ print(magnitude_plus_5)
 
  <div style="page-break-after: always;"></div>
 
-Onderstaand plaatje is een stukje van de data over aardbevingen die in de target_url te vinden is. 
+Onderstaand plaatje is een stukje van de data over aardbevingen die de gaan inlezen te vinden is. 
 
 <img src="../../img/data.png"
 style="zoom:50%">
 
-```python
-target_url = 'aardbevingen_data.csv' # Dit is 'zogenaamd' de code die aangeeft waar dit bestand terug te vinden is.
-```
-
 <u>Opdracht</u>
 
-9) Maak de code hieronder af zodat de data van de vierde regel in opgehakte stukjes in een lijst komt te staan. Dat is de aardbeving die op 1/8/65 plaatsvond. Dit hebben we al een paar keer geoefend.
+9) Maak de code hieronder af zodat de data van de vierde regel in opgehakte stukjes in een lijst komt te staan. Dat is de aardbeving die op 1/8/65 plaatsvond. Dit hebben wevorige week ook geoefend.
 
 ```python
-target_url = 'aardbevingen_data.csv' # Dit is 'zogenaamd' de code die aangeeft waar dit bestand terug te vinden is.
-
-data = .........(target_url)
+data = inlezen(target_url)
 
 regel_4 = data[...]
 
@@ -149,9 +143,8 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
 1) Wat doen deze codes? Leg het in je eigen woorden uit. 
 
-Voorbeeld!
-
 ```python
+1.
 hoek = 60
 for i in range(6):
   pen.forward(50)
@@ -162,10 +155,6 @@ for i in range(4):
   pen.forward(50)
   pen.left(hoek)
 ```
-
-Jouw antwoord: "Deze code tekent een zeshoek, en daarna op dezelfde plek een vierkant."
-
-Nu jij!
 
 ```python
 2.
@@ -197,27 +186,6 @@ Laten we ook even ons geheugen opfrissen over de kleuren.
 6. pen.color(0, 160, 0)
 ```
 
-2) Wat tekenen deze codes? Gebruik kleurpotloden of stiften. Heb je die niet? Zet dan de namen van de kleuren in de tekening.
-
-```python
-5.
-pen.color('blue')
-aantal_keer = 4
-for i in range(aantal_keer):
-  pen.forward(100)
-  pen.left(90)
-```
-
-```python
-6.
-pen.color('red')
-aantal_keer = 3
-hoek = 60
-for i in range(aantal_keer):
-  pen.forward(100)
-  pen.left(hoek)
-```
-
 ------
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel 
@@ -230,7 +198,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
 Voor we straks aan de slag gaan op de computer, gaan we nog éven wat oefeningen doen. 
 
-1) Vertaal onderstaande zinnen code naar 'mensen' taal. Ofwel: leg uit wat er gebeurd.
+1) Vertaal onderstaande zinnen code naar 'mensen' taal. Ofwel: leg uit wat er gebeurt.
 
 ```python
 1. for line in data:
@@ -244,7 +212,7 @@ Voor we straks aan de slag gaan op de computer, gaan we nog éven wat oefeningen
 3. pen.dot(magnitude)
 ```
 
-2) Onderstaand plaatje is weer een stukje van de data over aardbevingen die in de target_url te vinden is. 
+2) Dit plaatje is weer een stukje van de data over aardbevingen die we gaan inlezen te vinden is. 
 
 <img src="../../img/data.png"
 style="zoom:50%">
@@ -255,7 +223,7 @@ Vul de missende stukjes code in op de stippellijnen
 pen = turtle.Turtle()
 pen.color("green")
 
-data = .........(target_url) #vul de missende code in op het stippellijntje
+data = inlezen(target_url) #vul de missende code in op het stippellijntje
 
 for line in ....: #vul de missende code in op het stippellijntje
   earthquake = line.split(',')

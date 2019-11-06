@@ -51,7 +51,6 @@ Tip: **Let goed op de aanhalingstekens!**
 ```
 
 <div style="page-break-after: always;"></div>
-
 2) Welke van deze print() opdrachten print **Python is een programmeertaal** uit? 
 
 Schrijf de goede code over in je schrift.
@@ -78,12 +77,6 @@ Weet jij welke code goed is?
 
 
 
-3) Maak deze code af zodat er een goede zin geprint wordt:
-
-```python
-- print ... ... Programmeren ... ... ... is ... ... ... leuk ... )
-```
-
 
 
 4) Kies nu zelf een kort zinnetje om te printen. Bijvoorbeeld: 'Is het al pauze?'.
@@ -98,8 +91,9 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 ---
 
 <div style="page-break-after: always;"></div>
-
-#### **Onder elkaar**
+```
+Onder elkaar
+```
 
 1) Wat printen deze codes uit? Schrijf het antwoord op in je schrift! Wees *heel* precies.
 
@@ -166,7 +160,6 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 ------
 
 <div style="page-break-after: always;"></div>
-
 #### **Commentaar**
 
 Je kunt Python ook codes laten overslaan met een hekje. 
@@ -212,7 +205,6 @@ Resultaten:
 * Deze code geeft een fout.
 
 <div style="page-break-after: always;"></div>
-
 3) Hieronder staan vijf codes met commentaar erin. Wat printen deze codes uit?
 
 Schrijf de uitvoer in je schrift.
