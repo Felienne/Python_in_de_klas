@@ -11,7 +11,7 @@ Spelregels:
 - Schrijf de codes over als daarom gevraagd wordt, juist door opschrijven oefen je goed
 - Spieken/overschrijven is zinloos, het gaat juist om het oefenen. Snap je iets niet, vraag het dan aan ons
 
-###if-else uitleg
+### if-else uitleg
 
 Met een if-else code kun je een keuze maken in Python. Een if-else ziet er zo uit:
 
